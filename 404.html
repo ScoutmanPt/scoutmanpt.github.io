@@ -55,8 +55,13 @@
 
 
 
+   
   </head>
   <body>
+    <script>
+      if (!(window.location.host.startsWith("127.0.0.1") || window.location.host.startsWith("localhost")) && (window.location.protocol != "https:"))
+          window.location.protocol = "https";
+    </script>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
 
   <a class="navbar-brand" href="/" >
@@ -75,30 +80,6 @@
     <div class="collapse navbar-collapse" id="main-navbar" >
       <ul class="nav navbar-nav navbar-right">
 
-        
-        
-        <li>
-          <a title="speaking" href="/">speaking</a>
-
-        </li>
-
-        
-        
-        
-        <li>
-          <a title="About" href="/page/about/">About</a>
-
-        </li>
-
-        
-        
-        
-        <li>
-          <a title="Tags" href="/tags">Tags</a>
-
-        </li>
-
-        
         
 
         
@@ -239,28 +220,6 @@
 
 
 
-
-
-
-<script type="text/javascript">
-$(function(){
-  $('#show-comments').on('click', function(){
-    var disqus_shortname = 'scoutman-3';
-      
-    (function() {
-      var disqus = document.createElement('script'); 
-      disqus.type = 'text/javascript'; 
-      disqus.async = true;
-      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
-    })();
-      
-    $(this).hide(); 
-    });
-  });
-      
-</script>
-<script id="dsq-count-scr" src="//scoutman-3.disqus.com/count.js" async></script>
 
 
 

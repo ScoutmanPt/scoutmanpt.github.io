@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Scoutman.pt - thoughts on Architecture, Automation, Development and Technical Leadership </title>
-  <meta name="description" content="Overview of all pages with the tag #Tags, such as: example">
+  <meta name="description" content="Overview of all pages with the tag #Tags, such as: %!s(&lt;nil&gt;)">
   <meta name="author" content="rodrigo pinto"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -56,8 +56,13 @@
 
 
 
+   
   </head>
   <body>
+    <script>
+      if (!(window.location.host.startsWith("127.0.0.1") || window.location.host.startsWith("localhost")) && (window.location.protocol != "https:"))
+          window.location.protocol = "https";
+    </script>
     <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
 
   <a class="navbar-brand" href="/" >
@@ -76,30 +81,6 @@
     <div class="collapse navbar-collapse" id="main-navbar" >
       <ul class="nav navbar-nav navbar-right">
 
-        
-        
-        <li>
-          <a title="speaking" href="/">speaking</a>
-
-        </li>
-
-        
-        
-        
-        <li>
-          <a title="About" href="/page/about/">About</a>
-
-        </li>
-
-        
-        
-        
-        <li>
-          <a title="Tags" href="/tags">Tags</a>
-
-        </li>
-
-        
         
 
         
@@ -236,146 +217,6 @@
     <article class="post-preview">
       <div class="panel-group" id="accordion">
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseexample" data-parent="#accordion">
-                <div class="panel-heading" id="headerexample">
-                  <h4 class="panel-title">
-                      example
-                    <span class="badge">5</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapseexample" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/example/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/photoswipe-gallery-sample/" class="list-group-item">Photoswipe Gallery Sample</a>
-                  
-                    <a href="/big-image-sample/" class="list-group-item">Big Image Sample</a>
-                  
-                    <a href="/math-sample/" class="list-group-item">Math Sample</a>
-                  
-                    <a href="/code-sample/" class="list-group-item">Code Sample</a>
-                  
-                    <a href="/test-markdown/" class="list-group-item">Test markdown</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsebigimg" data-parent="#accordion">
-                <div class="panel-heading" id="headerbigimg">
-                  <h4 class="panel-title">
-                      bigimg
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsebigimg" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/bigimg/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/big-image-sample/" class="list-group-item">Big Image Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsecode" data-parent="#accordion">
-                <div class="panel-heading" id="headercode">
-                  <h4 class="panel-title">
-                      code
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsecode" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/code/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/code-sample/" class="list-group-item">Code Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsemarkdown" data-parent="#accordion">
-                <div class="panel-heading" id="headermarkdown">
-                  <h4 class="panel-title">
-                      markdown
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsemarkdown" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/markdown/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/test-markdown/" class="list-group-item">Test markdown</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsemath" data-parent="#accordion">
-                <div class="panel-heading" id="headermath">
-                  <h4 class="panel-title">
-                      math
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsemath" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/math/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/math-sample/" class="list-group-item">Math Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsephotoswipe" data-parent="#accordion">
-                <div class="panel-heading" id="headerphotoswipe">
-                  <h4 class="panel-title">
-                      photoswipe
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsephotoswipe" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/photoswipe/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/photoswipe-gallery-sample/" class="list-group-item">Photoswipe Gallery Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
-        
       </div>
     </article>
   </div>
@@ -460,28 +301,6 @@
 
 
 
-
-
-
-<script type="text/javascript">
-$(function(){
-  $('#show-comments').on('click', function(){
-    var disqus_shortname = 'scoutman-3';
-      
-    (function() {
-      var disqus = document.createElement('script'); 
-      disqus.type = 'text/javascript'; 
-      disqus.async = true;
-      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
-    })();
-      
-    $(this).hide(); 
-    });
-  });
-      
-</script>
-<script id="dsq-count-scr" src="//scoutman-3.disqus.com/count.js" async></script>
 
 
 
