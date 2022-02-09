@@ -1,33 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scoutman</title>
-    <link>/</link>
-    <description>Recent content on Scoutman</description>
+    <title>Posts on Scoutman</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Scoutman</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Tue, 08 Feb 2022 23:55:04 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About me</title>
-      <link>/page/about/</link>
-      <pubDate>Tue, 08 Feb 2022 23:55:04 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/page/about/</guid>
-      <description>The name is Rodrigo Pinto, I&amp;rsquo;m Enterprise Solution Architect with over than 20 years of experience and a Microsoft Office 365 Apps and Services MVP since 2011.
-Currently living near Lisbon, Portugal, im focused on architecture, development and technically leading teams in Microsoft 365 and Azure.
-Been blessed to live eXtraordinary times, meeting and mingle with full blown hearted people, I usually spent my free time with the wifey (she definitely 🤘🏻) &amp;amp; kids, coding, playing guitar🎸, marvel comics (lots of them), movies, travelling and organizing community events.</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>/2022-02-02-test/</link>
-      <pubDate>Wed, 02 Feb 2022 13:35:20 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/2022-02-02-test/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>🚀First post!</title>
       <link>/first-post/</link>
