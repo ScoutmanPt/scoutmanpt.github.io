@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Scoutman.pt - thoughts on Architecture, Automation, Development and Technical Leadership </title>
-  <meta name="description" content="Overview of all pages with the tag #Tags, such as: example">
+  <meta name="description" content="Using Multiple Images">
   <meta name="author" content="rodrigo pinto"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -29,14 +29,64 @@
   
 }
 </script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "\/",
+          "name": "home"
+        }
+    },{
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@id": "\/big-image-sample\/",
+          "name": "Big image sample"
+        }
+    }]
+}
+</script><script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "author": {
+    "name" : "rodrigo pinto"
+  },
+  "headline": "Big Image Sample",
+  "description" : "The image banners at the top of the page are refered to as \u0026ldquo;bigimg\u0026rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.\n",
+  "inLanguage" : "en",
+  "wordCount":  191 ,
+  "datePublished" : "2017-03-07T00:00:00",
+  "dateModified" : "2017-03-07T00:00:00",
+  "image" : "\/imgs\/scoutman.jpg",
+  "keywords" : [ "example, bigimg" ],
+  "mainEntityOfPage" : "\/big-image-sample\/",
+  "publisher" : {
+    "@type": "Organization",
+    "name" : "\/",
+    "logo" : {
+        "@type" : "ImageObject",
+        "url" : "\/imgs\/scoutman.jpg",
+        "height" :  60 ,
+        "width" :  60
+    }
+  }
+}
+</script>
 
-<meta property="og:title" content="Tags" />
+<meta property="og:title" content="Big Image Sample" />
+<meta property="og:description" content="Using Multiple Images">
 <meta property="og:image" content="/imgs/scoutman.jpg" />
-<meta property="og:url" content="/tags/" />
+<meta property="og:url" content="/big-image-sample/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Scoutman" />
 
-  <meta name="twitter:title" content="Tags" />
+  <meta name="twitter:title" content="Big Image Sample" />
+  <meta name="twitter:description" content="Using Multiple Images">
   <meta name="twitter:image" content="/imgs/scoutman.jpg" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@scoutmanpt" />
@@ -197,23 +247,50 @@
 
 
 
+<div id="header-big-imgs" data-num-img=3   data-img-src-1="/img/triangle.jpg"  data-img-desc-1="Triangle"    data-img-src-2="/img/sphere.jpg"  data-img-desc-2="Sphere"    data-img-src-3="/img/hexagon.jpg"  data-img-desc-3="Hexagon"  ></div>
 
-<header class="header-section ">
+
+<header class="header-section has-img">
+  
+  <div class="intro-header big-img">
+    
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          <div class="posts-heading">
+            <h1>Big Image Sample</h1>
+            
+            
+            <h2 class="posts-subheading">Using Multiple Images</h2>
+
+            
+            
+            
+          </div>
+        </div>
+      </div>
+    </div>
+    <span class="img-desc" style="display: inline;"></span>
+  </div>
   
   <div class="intro-header no-img">
     <div class="container">
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          <div class="tags-heading">
+          <div class="posts-heading">
             
             
 
-            <h1>Tags</h1>
+            <h1>Big Image Sample</h1>
             
             
             
             
             <hr class="small">
+            
+            
+            
+            <h2 class="posts-subheading">Using Multiple Images</h2>
             
             
 
@@ -228,160 +305,157 @@
 </header>
  
     
-
-
-
 <div class="container" role="main">
-  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> 
-    <article class="post-preview">
-      <div class="panel-group" id="accordion">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        <p>The image banners at the top of the page are refered to as &ldquo;bigimg&rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.</p>
+<p>A single bigimg can be specified in the front matter by the following YAML:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">bigimg: [{src: &#34;/img/triangle.jpg&#34;, desc: &#34;Triangle&#34;}]
+</code></pre></div><p>Multiple bigimgs can be specified in the front matter by the following YAML:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">bigimg: [{src: &#34;/img/triangle.jpg&#34;, desc: &#34;Triangle&#34;}, 
+         {src: &#34;/img/sphere.jpg&#34;, desc: &#34;Sphere&#34;}, 
+         {src: &#34;/img/hexagon.jpg&#34;, desc: &#34;Hexagon&#34;}]
+</code></pre></div><p>Also note that the description field is optional, and images could instead be specified by:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">bigimg: [{src: &#34;/img/triangle.jpg&#34;}, 
+         {src: &#34;/img/sphere.jpg&#34;}, 
+         {src: &#34;/img/hexagon.jpg&#34;}]
+</code></pre></div><p>The above YAML array of hashes were written in &ldquo;flow&rdquo; style. However when generating a new page or post with <code>hugo new post/mypost.md</code>, hugo may interpret the archetype for bigimg in the default YAML style. Defining multiple bigimg&rsquo;s complete with descriptions in this style would be specified by:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback">bigimg: 
+- {src: &#34;/img/triangle.jpg&#34;, desc: &#34;Triangle&#34;}
+- {src: &#34;/img/sphere.jpg&#34;, desc: &#34;Sphere&#34;}
+- {src: &#34;/img/hexagon.jpg&#34;, desc: &#34;Hexagon&#34;}
+</code></pre></div><p>Additional information can be found <a href="https://rhnh.net/2011/01/31/yaml-tutorial/">in this YAML tutorial</a>.</p>
+
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapseexample" data-parent="#accordion">
-                <div class="panel-heading" id="headerexample">
-                  <h4 class="panel-title">
-                      example
-                    <span class="badge">5</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapseexample" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/example/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/photoswipe-gallery-sample/" class="list-group-item">Photoswipe Gallery Sample</a>
-                  
-                    <a href="/big-image-sample/" class="list-group-item">Big Image Sample</a>
-                  
-                    <a href="/math-sample/" class="list-group-item">Math Sample</a>
-                  
-                    <a href="/code-sample/" class="list-group-item">Code Sample</a>
-                  
-                    <a href="/test-markdown/" class="list-group-item">Test markdown</a>
-                  
-                </div>
-              </div>
-            </div>
+          <div class="blog-tags">
+            
+              <a href="//tags/example/">example</a>&nbsp;
+            
+              <a href="//tags/bigimg/">bigimg</a>&nbsp;
+            
           </div>
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsebigimg" data-parent="#accordion">
-                <div class="panel-heading" id="headerbigimg">
-                  <h4 class="panel-title">
-                      bigimg
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsebigimg" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/bigimg/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/big-image-sample/" class="list-group-item">Big Image Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
+
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsecode" data-parent="#accordion">
-                <div class="panel-heading" id="headercode">
-                  <h4 class="panel-title">
-                      code
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsecode" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/code/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/code-sample/" class="list-group-item">Code Sample</a>
-                  
-                </div>
+            <hr/>
+            <section id="social-share">
+              <div class="list-inline footer-links">
+                
+
+<div class="share-box" aria-hidden="true">
+    <ul class="share">
+      
+      <li>
+        <a href="//twitter.com/share?url=%2fbig-image-sample%2f&amp;text=Big%20Image%20Sample&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.facebook.com/sharer/sharer.php?u=%2fbig-image-sample%2f" target="_blank" title="Share on Facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//reddit.com/submit?url=%2fbig-image-sample%2f&amp;title=Big%20Image%20Sample" target="_blank" title="Share on Reddit">
+          <i class="fab fa-reddit"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.linkedin.com/shareArticle?url=%2fbig-image-sample%2f&amp;title=Big%20Image%20Sample" target="_blank" title="Share on LinkedIn">
+          <i class="fab fa-linkedin"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.stumbleupon.com/submit?url=%2fbig-image-sample%2f&amp;title=Big%20Image%20Sample" target="_blank" title="Share on StumbleUpon">
+          <i class="fab fa-stumbleupon"></i>
+        </a>
+      </li>
+  
+      
+      <li>
+        <a href="//www.pinterest.com/pin/create/button/?url=%2fbig-image-sample%2f&amp;description=Big%20Image%20Sample" target="_blank" title="Share on Pinterest">
+          <i class="fab fa-pinterest"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+  
+
               </div>
-            </div>
-          </div>
+            </section>
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsemarkdown" data-parent="#accordion">
-                <div class="panel-heading" id="headermarkdown">
-                  <h4 class="panel-title">
-                      markdown
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsemarkdown" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/markdown/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/test-markdown/" class="list-group-item">Test markdown</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
+
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsemath" data-parent="#accordion">
-                <div class="panel-heading" id="headermath">
-                  <h4 class="panel-title">
-                      math
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsemath" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/math/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/math-sample/" class="list-group-item">Math Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
+          
+            
+          
+
+          
+                  <h4 class="see-also">See also</h4>
+                  <ul>
+                
+                
+                    <li><a href="/photoswipe-gallery-sample/">Photoswipe Gallery Sample</a></li>
+                
+                    <li><a href="/math-sample/">Math Sample</a></li>
+                
+                    <li><a href="/code-sample/">Code Sample</a></li>
+                
+                    <li><a href="/test-markdown/">Test markdown</a></li>
+                
+              </ul>
+
+          
         
-          <div class="panel panel-default">
-            <a class="collapsed" role="button" data-toggle="collapse" data-target="#collapsephotoswipe" data-parent="#accordion">
-                <div class="panel-heading" id="headerphotoswipe">
-                  <h4 class="panel-title">
-                      photoswipe
-                    <span class="badge">1</span>
-                  </h4>
-                </div>
-            </a>
-            <div id="collapsephotoswipe" class="panel-collapse collapse">
-              <div class="panel-body">
-                <a href="//tags/photoswipe/" class="list-group-item view-all">
-                View all</a>
-                <div class="list-group">
-                  
-                    <a href="/photoswipe-gallery-sample/" class="list-group-item">Photoswipe Gallery Sample</a>
-                  
-                </div>
-              </div>
-            </div>
-          </div>
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="/math-sample/" data-toggle="tooltip" data-placement="top" title="Math Sample">&larr; Previous Post</a>
+            </li>
+          
+          
+            <li class="next">
+              <a href="/photoswipe-gallery-sample/" data-toggle="tooltip" data-placement="top" title="Photoswipe Gallery Sample">Next Post &rarr;</a>
+            </li>
+          
+        </ul>
+      
+
+
+      
         
-      </div>
-    </article>
+          
+          <div class="disqus-comments">                  
+            <button id="show-comments" class="btn btn-default" type="button">Show <span class="disqus-comment-count" data-disqus-url="big-image-sample">comments</span></button>
+            <div id="disqus_thread"></div>
+
+            <script type="text/javascript">
+              var disqus_config = function () {
+              this.page.url = 'big-image-sample';
+            };
+
+          </script>
+          </div>
+          
+        
+        
+      
+
+    </div>
   </div>
 </div>
-
-
 
       
 <footer>
@@ -424,7 +498,7 @@
               </li>
           
           <li>
-            <a href="/tags/index.xml" title="RSS">
+            <a href="" title="RSS">
               <span class="fa-stack fa-lg">
                 <i class="fas fa-circle fa-stack-2x"></i>
                 <i class="fas fa-rss fa-stack-1x fa-inverse"></i>

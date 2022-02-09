@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Scoutman</title>
+    <link>/page/</link>
+    <description>Recent content in Pages on Scoutman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
+    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
+    <lastBuildDate>Tue, 08 Feb 2022 23:55:04 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>/page/about/</link>
+      <pubDate>Tue, 08 Feb 2022 23:55:04 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/page/about/</guid>
+      <description>The name is Rodrigo Pinto, I&amp;rsquo;m Enterprise Solution Architect with over than 20 years of experience and a Microsoft Office 365 Apps and Services MVP since 2011.
+Currently living near Lisbon, Portugal, im focused on architecture, development and technically leading teams in Microsoft 365 and Azure.
+Been blessed to live eXtraordinary times, meeting and mingle with full blown hearted people, I usually spent my free time with the wifey (she definitely 🤘🏻) &amp;amp; kids, coding, playing guitar🎸, marvel comics (lots of them), movies, travelling and organizing community events.</description>
+    </item>
+    
+  </channel>
+</rss>
