@@ -6,6 +6,30 @@
     <description>Recent content on Scoutman</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
+    <lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🚀... and the first post is out !</title>
+      <link>/...-and-the-first-post-is-out/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/...-and-the-first-post-is-out/</guid>
+      <description>&lt;!-- {{ .Title }}--&gt;
+&lt;p&gt;&lt;img src=&#34;/imgs/fistpost.jpg&#34; alt=&#34;Example image&#34;&gt;&lt;/p&gt;
+&lt;br&gt;
+Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>/page/about/</link>
+      <pubDate>Tue, 08 Feb 2022 23:55:04 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/page/about/</guid>
+      <description>The name is Rodrigo Pinto, I&amp;rsquo;m Enterprise Solution Architect with over than 20 years of experience and a Microsoft Office 365 Apps and Services MVP since 2011.
+Currently living near Lisbon, Portugal, im focused on architecture, development and technically leading teams in Microsoft 365 and Azure.
+Been blessed to live eXtraordinary times, meeting and mingle with full blown hearted people, I usually spent my free time with the wifey (she definitely 🤘🏻) &amp;amp; kids, coding, playing guitar🎸, marvel comics (lots of them), movies, travelling and organizing community events.</description>
+    </item>
+    
   </channel>
 </rss>

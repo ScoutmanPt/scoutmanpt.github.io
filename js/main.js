@@ -6,12 +6,27 @@ var main = {
   numImgs : null,
 
   init : function() {
+    // $(window).resize(function() {
+    //   var  elem = document.getElementsByClassName("page-heading");
+    //   if (window.innerWidth < 1300)
+    //   {
+    //     elem[0].style.display="block";
+    //   }else
+     
+    //   {
+    //     elem[0].style.display="none";
+    //   }
+    // });
+
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
             $(".navbar").addClass("top-nav-short");
+            $("#myLinks").removeClass("myLinksOff");
+           
         } else {
             $(".navbar").removeClass("top-nav-short");
+            $("#myLinks").addClass("myLinksOff");
         }
     });
 
