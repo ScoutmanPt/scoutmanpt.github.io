@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Scoutman</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Scoutman</description>
+    <title>Tip on Scoutman</title>
+    <link>/tags/tip/</link>
+    <description>Recent content in Tip on Scoutman</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tip/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>😰 The case of the missing field ...</title>
       <link>/the-case-of-the-missing-field-.../</link>
@@ -17,18 +17,6 @@
       <description>&lt;br&gt;
 &lt;p&gt;Its been a while, since I actually had to deal with on-premises SharePoint Farm &amp;hellip; although im spent so many years with the platform, im still amazed on how you keep learning &amp;hellip; with &amp;ldquo;legacy&amp;rdquo; systems. 😁&lt;/p&gt;
 &lt;p&gt;Recently, I&amp;rsquo;ve came across a strange behavior in a SharePoint 2016 farm :  modified dates for sites, lists, libraries  are  more recent than expected when no updates were made by users &amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>🚀... and the first post is out !</title>
-      <link>/...-and-the-first-post-is-out/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/...-and-the-first-post-is-out/</guid>
-      <description>&lt;!-- {{ .Title }}--&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/fistpost.jpg&#34; alt=&#34;firstpost&#34;&gt;&lt;/p&gt;
-&lt;br&gt;
-Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...</description>
     </item>
     
   </channel>

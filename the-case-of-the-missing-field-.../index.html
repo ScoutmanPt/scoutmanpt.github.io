@@ -9,9 +9,8 @@
 
   <title>Scoutman.pt - thoughts on Architecture, Automation, Development and Technical Leadership </title>
   <meta name="description" content="
-
-
-Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...">
+Its been a while, since I actually had to deal with on-premises SharePoint Farm &hellip; although im spent so many years with the platform, im still amazed on how you keep learning &hellip; with &ldquo;legacy&rdquo; systems. 😁
+Recently, I&rsquo;ve came across a strange behavior in a SharePoint 2016 farm :  modified dates for sites, lists, libraries  are  more recent than expected when no updates were made by users &hellip;">
   <meta name="author" content="rodrigo pinto"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -47,8 +46,8 @@ Been in SharePoint world since 2003, and within community efforts since 2009, I 
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "\/...-and-the-first-post-is-out\/",
-          "name": "... and the first post is out !"
+          "@id": "\/the-case-of-the-missing-field-...\/",
+          "name": "The case of the missing field ..."
         }
     }]
 }
@@ -59,15 +58,15 @@ Been in SharePoint world since 2003, and within community efforts since 2009, I 
   "author": {
     "name" : "rodrigo pinto"
   },
-  "headline": "🚀... and the first post is out !",
-  "description" : "Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...",
+  "headline": "😰 The case of the missing field ...",
+  "description" : "\nIts been a while, since I actually had to deal with on-premises SharePoint Farm \u0026hellip; although im spent so many years with the platform, im still amazed on how you keep learning \u0026hellip; with \u0026ldquo;legacy\u0026rdquo; systems. 😁\nRecently, I\u0026rsquo;ve came across a strange behavior in a SharePoint 2016 farm : modified dates for sites, lists, libraries are more recent than expected when no updates were made by users \u0026hellip;\n",
   "inLanguage" : "en",
-  "wordCount":  135 ,
-  "datePublished" : "2022-02-15T00:00:00",
-  "dateModified" : "2022-02-15T00:00:00",
+  "wordCount":  172 ,
+  "datePublished" : "2022-03-03T00:00:00",
+  "dateModified" : "2022-03-03T00:00:00",
   "image" : "\/imgs\/scoutman.jpg",
-  "keywords" : [ "" ],
-  "mainEntityOfPage" : "\/...-and-the-first-post-is-out\/",
+  "keywords" : [ "Tip, SharePoint" ],
+  "mainEntityOfPage" : "\/the-case-of-the-missing-field-...\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "\/",
@@ -81,21 +80,18 @@ Been in SharePoint world since 2003, and within community efforts since 2009, I 
 }
 </script>
 
-<meta property="og:title" content="🚀... and the first post is out !" />
+<meta property="og:title" content="😰 The case of the missing field ..." />
 <meta property="og:description" content="
-
-
-Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...">
+Its been a while, since I actually had to deal with on-premises SharePoint Farm &hellip; although im spent so many years with the platform, im still amazed on how you keep learning &hellip; with &ldquo;legacy&rdquo; systems. 😁
+Recently, I&rsquo;ve came across a strange behavior in a SharePoint 2016 farm :  modified dates for sites, lists, libraries  are  more recent than expected when no updates were made by users &hellip;">
 <meta property="og:image" content="/imgs/scoutman.jpg" />
-<meta property="og:url" content="/...-and-the-first-post-is-out/" />
+<meta property="og:url" content="/the-case-of-the-missing-field-.../" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Scoutman" />
 
-  <meta name="twitter:title" content="🚀... and the first post is out !" />
+  <meta name="twitter:title" content="😰 The case of the missing field ..." />
   <meta name="twitter:description" content="
-
-
-Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings …&lt;/!--&gt;">
+Its been a while, since I actually had to deal with on-premises SharePoint Farm &hellip; although im spent so many years with the platform, im still amazed on how you keep learning &hellip; with …">
   <meta name="twitter:image" content="/imgs/scoutman.jpg" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@scoutmanpt" />
@@ -420,25 +416,36 @@ if (!doNotTrack) {
       <div class="col-lg-10 col-lg-offset-1 col-lg-10">
       <article role="main" class="blog-post">
         
-        <div class="post-innerTitle" >🚀... and the first post is out !
+        <div class="post-innerTitle" >😰 The case of the missing field ...
 </div>
         
         
         
-        <!-- {{ .Title }}-->
-<p><img src="/imgs/fistpost.jpg" alt="firstpost"></p>
+        <br>
+<p>Its been a while, since I actually had to deal with on-premises SharePoint Farm &hellip; although im spent so many years with the platform, im still amazed on how you keep learning &hellip; with &ldquo;legacy&rdquo; systems. 😁</p>
+<p>Recently, I&rsquo;ve came across a strange behavior in a SharePoint 2016 farm :  modified dates for sites, lists, libraries  are  more recent than expected when no updates were made by users &hellip;</p>
+<p>In fact, it seems that the value in the <strong>ItemLastModifiedDate</strong> field, was showing user updates also by internal system operations.</p>
+<p>Last time i check in SharePoint Online, there is a  <strong>LastItemUserModifiedDate</strong> field with a timestamp that reflects changes made by users &hellip;</p>
+<p>&hellip; wonder whats the value there in the 2016 platform &hellip;</p>
 <br>
-Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ... 
-<p><br/> Did bought this domain a few years ago, but didn&rsquo;t actually start this project &hellip;</p>
-<h3 id="the-friends">the friends</h3>
-<p>Challenged by a few good old friends on actually having a blog and share some of the knowledge in written, I decide to finally open the &ldquo;pandora&rdquo; box starting from now.</p>
-<h3 id="content">content</h3>
-<p>I&rsquo;m techleading an awesome developer\consultants team on SharePoint Framework solutions, touching DevOps, lots of powershell, logic apps, flows, powerapps &hellip; the usual Microsoft Office 365 stack, so the posts will be focus on it and on community driven initiatives.
-<br><br>
-<span style="font-size:12px">
-&hellip; and if you&rsquo;re wondering where that photo was taken , check it out <a href="https://www.visitazores.com/en" target='_blank' >[link]</a> .
-</span></p>
+<p><img src="/imgs/posts/nofield.jpg" alt="nofield">
+<br>
+Field doesn&rsquo;t exist &hellip; ??? Hum?
+<br>
+<br></p>
+<p>Surprisingly, this is a expected behavior for SharePoint 2016 and prior versions . 😶</p>
+<p><strong>LastItemUserModifiedDate</strong> was only introduced with SharePoint 2019 and SharePoint Online, meaning on previous version, changes made by users and made by the platform fall over this field.</p>
+<p>#didn&rsquo;t knew that</p>
        
+        
+        
+          <div class="blog-tags">
+            
+              <a href="//tags/tip/">Tip</a>&nbsp;
+            
+              <a href="//tags/sharepoint/">SharePoint</a>&nbsp;
+            
+          </div>
         
 
         
@@ -451,42 +458,42 @@ Been in SharePoint world since 2003, and within community efforts since 2009, I 
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=%2f...-and-the-first-post-is-out%2f&amp;text=%f0%9f%9a%80...%20and%20the%20first%20post%20is%20out%20%21&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=%2fthe-case-of-the-missing-field-...%2f&amp;text=%f0%9f%98%b0%20The%20case%20of%20the%20missing%20field%20...&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.facebook.com/sharer/sharer.php?u=%2f...-and-the-first-post-is-out%2f" target="_blank" title="Share on Facebook">
+        <a href="//www.facebook.com/sharer/sharer.php?u=%2fthe-case-of-the-missing-field-...%2f" target="_blank" title="Share on Facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//reddit.com/submit?url=%2f...-and-the-first-post-is-out%2f&amp;title=%f0%9f%9a%80...%20and%20the%20first%20post%20is%20out%20%21" target="_blank" title="Share on Reddit">
+        <a href="//reddit.com/submit?url=%2fthe-case-of-the-missing-field-...%2f&amp;title=%f0%9f%98%b0%20The%20case%20of%20the%20missing%20field%20..." target="_blank" title="Share on Reddit">
           <i class="fab fa-reddit"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.linkedin.com/shareArticle?url=%2f...-and-the-first-post-is-out%2f&amp;title=%f0%9f%9a%80...%20and%20the%20first%20post%20is%20out%20%21" target="_blank" title="Share on LinkedIn">
+        <a href="//www.linkedin.com/shareArticle?url=%2fthe-case-of-the-missing-field-...%2f&amp;title=%f0%9f%98%b0%20The%20case%20of%20the%20missing%20field%20..." target="_blank" title="Share on LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.stumbleupon.com/submit?url=%2f...-and-the-first-post-is-out%2f&amp;title=%f0%9f%9a%80...%20and%20the%20first%20post%20is%20out%20%21" target="_blank" title="Share on StumbleUpon">
+        <a href="//www.stumbleupon.com/submit?url=%2fthe-case-of-the-missing-field-...%2f&amp;title=%f0%9f%98%b0%20The%20case%20of%20the%20missing%20field%20..." target="_blank" title="Share on StumbleUpon">
           <i class="fab fa-stumbleupon"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.pinterest.com/pin/create/button/?url=%2f...-and-the-first-post-is-out%2f&amp;description=%f0%9f%9a%80...%20and%20the%20first%20post%20is%20out%20%21" target="_blank" title="Share on Pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=%2fthe-case-of-the-missing-field-...%2f&amp;description=%f0%9f%98%b0%20The%20case%20of%20the%20missing%20field%20..." target="_blank" title="Share on Pinterest">
           <i class="fab fa-pinterest"></i>
         </a>
       </li>
@@ -507,10 +514,10 @@ Been in SharePoint world since 2003, and within community efforts since 2009, I 
       
         <ul class="pager blog-pager">
           
-          
-            <li class="next">
-              <a href="/the-case-of-the-missing-field-.../" data-toggle="tooltip" data-placement="top" title="😰 The case of the missing field ...">Next Post &rarr;</a>
+            <li class="previous" style="background-color: black;">
+              <a href="/...-and-the-first-post-is-out/" data-toggle="tooltip" data-placement="top" title="🚀... and the first post is out !">&larr;Previous Post</a>
             </li>
+          
           
         </ul>
       
