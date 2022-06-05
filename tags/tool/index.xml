@@ -15,7 +15,7 @@
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/scoutmans-swiss-army-knife/</guid>
       <description>&lt;img src=&#34;/imgs/posts/sak/about.jpg&#34; width=&#34;400&#34; style=&#34;float:left;margin-right:20px&#34;/&gt;
-&lt;p&gt;The &lt;a href=&#34;https://github.com/ScoutmanPt/Swiss.Army.Knife/releases/tag/v1.0.0.0&#34;&gt;&lt;strong&gt;Scoutmans Swiss Army Knife&lt;/strong&gt;&lt;/a&gt;   is a Windows Desktop app that lives happy on the Windows systray.&lt;br&gt;
+&lt;p&gt;The &lt;a href=&#34;https://github.com/ScoutmanPt/Swiss.Army.Knife&#34;&gt;&lt;strong&gt;Scoutmans Swiss Army Knife&lt;/strong&gt;&lt;/a&gt;   is a Windows Desktop app that lives happy on the Windows systray.&lt;br&gt;
 &lt;br&gt;
 It is a Windows Forms &amp;ldquo;ShortCut&amp;rdquo; builder tool where we can address direct links to files, folders, scripts (PNP Script Samples also!) and browser Profiles.  &lt;br/&gt;&lt;/p&gt;</description>
     </item>
