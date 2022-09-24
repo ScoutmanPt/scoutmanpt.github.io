@@ -3,22 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-06-03T13:18:17+00:00</lastmod>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>/tags/managed-identity/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/tags/pnp.powershell/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/tags/powershell/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sharepoint/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/tags/tip/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+  </url><url>
+    <loc>/managed-identity-rocks-with-pnp.powershell/</loc>
+    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
   </url><url>
     <loc>/tags/pnp-script-samples/</loc>
     <lastmod>2022-06-03T13:18:17+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-06-03T13:18:17+00:00</lastmod>
-  </url><url>
     <loc>/scoutmans-swiss-army-knife/</loc>
-    <lastmod>2022-06-03T13:18:17+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sharepoint/</loc>
-    <lastmod>2022-06-03T13:18:17+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-06-03T13:18:17+00:00</lastmod>
   </url><url>
     <loc>/tags/teams/</loc>
@@ -26,9 +41,6 @@
   </url><url>
     <loc>/tags/tool/</loc>
     <lastmod>2022-06-03T13:18:17+00:00</lastmod>
-  </url><url>
-    <loc>/tags/tip/</loc>
-    <lastmod>2022-03-03T13:18:17+00:00</lastmod>
   </url><url>
     <loc>/the-case-of-the-missing-field-.../</loc>
     <lastmod>2022-03-03T13:18:17+00:00</lastmod>

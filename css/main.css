@@ -3,7 +3,7 @@
 body {
   /* font-family: 'Lora', 'Times New Roman', serif; */
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  /*font-size: 18px;*/
   color: #404040;
   position: relative;
   background: #FFF;
@@ -615,7 +615,7 @@ display: none;
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 26px;
+    font-size: 32px;
   }
 }
 
@@ -924,6 +924,7 @@ table tr td {
   margin: 0;
   padding: 6px 13px;
 }
+
 table tr th :first-child,
 table tr td :first-child {
   margin-top: 0;
@@ -932,7 +933,14 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
-
+/* table tr td {
+border: none!important;
+padding: 30px;
+}
+table tr th {
+  border: none!important;
+ 
+  } */
 /* --- Social media sharing section --- */
 
 #social-share-section {
