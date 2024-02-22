@@ -10,7 +10,8 @@
   <title>Scoutman.pt - thoughts on Architecture, Automation, Development and Technical Leadership </title>
   <meta name="description" content="
 
-Managed identities provide an identity for applications to use when connecting to resources that support Azure AD authentication.">
+News Flash !
+You might have noticed the blog&rsquo;s been on a little siesta,  it&rsquo;s all been for a good cause (and no, it&rsquo;s not a Netflix binge, although that did happen too). Over the past year, I&rsquo;ve been immersed in a couple of exciting side projects that have been both challenging and incredibly fulfilling&hellip;">
   <meta name="author" content="rodrigo pinto"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -46,8 +47,8 @@ Managed identities provide an identity for applications to use when connecting t
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "\/managed-identity-rocks-with-pnp.powershell\/",
-          "name": "Managed identity rocks with pn p. power shell !"
+          "@id": "\/news-update-stay-tuned-some-awesomeness-is-coming-...\/",
+          "name": "News update ! stay tuned, some awesomeness is coming ..."
         }
     }]
 }
@@ -58,15 +59,15 @@ Managed identities provide an identity for applications to use when connecting t
   "author": {
     "name" : "rodrigo pinto"
   },
-  "headline": "🔐  Managed Identity rocks with PnP.PowerShell !",
-  "description" : "Managed identities provide an identity for applications to use when connecting to resources that support Azure AD authentication.\n",
+  "headline": "📰  News Update ! Stay tuned, some awesomeness is coming ...",
+  "description" : "News Flash !\nYou might have noticed the blog\u0026rsquo;s been on a little siesta, it\u0026rsquo;s all been for a good cause (and no, it\u0026rsquo;s not a Netflix binge, although that did happen too). Over the past year, I\u0026rsquo;ve been immersed in a couple of exciting side projects that have been both challenging and incredibly fulfilling\u0026hellip;\n",
   "inLanguage" : "en",
-  "wordCount":  743 ,
-  "datePublished" : "2022-09-20T00:00:00",
-  "dateModified" : "2022-09-20T00:00:00",
+  "wordCount":  238 ,
+  "datePublished" : "2024-02-22T00:00:00",
+  "dateModified" : "2024-02-22T00:00:00",
   "image" : "\/imgs\/scoutman.jpg",
-  "keywords" : [ "Tip, SharePoint, Managed Identity, PnP.PowerShell, PowerShell" ],
-  "mainEntityOfPage" : "\/managed-identity-rocks-with-pnp.powershell\/",
+  "keywords" : [ "News Update" ],
+  "mainEntityOfPage" : "\/news-update-stay-tuned-some-awesomeness-is-coming-...\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "\/",
@@ -80,19 +81,21 @@ Managed identities provide an identity for applications to use when connecting t
 }
 </script>
 
-<meta property="og:title" content="🔐  Managed Identity rocks with PnP.PowerShell !" />
+<meta property="og:title" content="📰  News Update ! Stay tuned, some awesomeness is coming ..." />
 <meta property="og:description" content="
 
-Managed identities provide an identity for applications to use when connecting to resources that support Azure AD authentication.">
+News Flash !
+You might have noticed the blog&rsquo;s been on a little siesta,  it&rsquo;s all been for a good cause (and no, it&rsquo;s not a Netflix binge, although that did happen too). Over the past year, I&rsquo;ve been immersed in a couple of exciting side projects that have been both challenging and incredibly fulfilling&hellip;">
 <meta property="og:image" content="/imgs/scoutman.jpg" />
-<meta property="og:url" content="/managed-identity-rocks-with-pnp.powershell/" />
+<meta property="og:url" content="/news-update-stay-tuned-some-awesomeness-is-coming-.../" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Scoutman" />
 
-  <meta name="twitter:title" content="🔐  Managed Identity rocks with PnP.PowerShell !" />
+  <meta name="twitter:title" content="📰  News Update ! Stay tuned, some awesomeness is coming ..." />
   <meta name="twitter:description" content="
 
-Managed identities provide an identity for applications to use when connecting to resources that support Azure AD authentication.">
+News Flash !
+You might have noticed the blog&rsquo;s been on a little siesta,  it&rsquo;s all been for a good cause (and no, it&rsquo;s not a Netflix binge, although that did happen too). Over the …">
   <meta name="twitter:image" content="/imgs/scoutman.jpg" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@scoutmanpt" />
@@ -417,183 +420,30 @@ if (!doNotTrack) {
       <div class="col-lg-10 col-lg-offset-1 col-lg-10">
       <article role="main" class="blog-post">
         
-        <div class="post-innerTitle" >🔐  Managed Identity rocks with PnP.PowerShell !
+        <div class="post-innerTitle" >📰  News Update ! Stay tuned, some awesomeness is coming ...
 </div>
         
         
         
-        <p><img src="/imgs/posts/mngid.png" alt="mngid"></p>
+        <p><img src="/imgs/posts/20240201/newsupdate.png" alt="newsupdate"></p>
 <br>
-<p><strong>Managed identities</strong> provide an identity for applications to use when connecting to resources that support Azure AD authentication.</p>
-<p>We can have <strong>2 types</strong> of managed identities :<br>
-<br> </p>
-<table>
-<thead>
-<tr>
-<th><strong>System-assigned</strong></th>
-<th><strong>User-assigned</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Identity created in Azure AD and tied to the lifecycle of that service instance. If the resource is deleted, Azure automatically deletes that identity</td>
-<td>Identity created as a standalone Azure resource and assign it to one or more instances of an Azure service. The identity is managed separately from the resources that use it.</td>
-</tr>
-</tbody>
-</table>
-<br>
-<h4 id="why-the-heck-should-i-care">Why the heck should i care?</h4>
-<p>With managed identities, applications can get Azure AD tokens without having to manage any type of credentials, meaning that we don&rsquo;t need to worry about secrets, credentials, certificates, and keys.<br>
-The platform will take care of it for you. Kind of neat, no ? 🤠
-<br>
-<br>
-At the time of writing this article, in <ins><a href="https://learn.microsoft.com/en-us/azure/active-directory/managed-identities-azure-resources/managed-identities-status">this</a></ins> document, Microsoft state all available services that can use managed identities to access other services but there&rsquo;s no documentation on M365 PowerShell modules usage with Managed Identities.
-<br>
-<br></p>
-<h4 id="how-does-it-work">How does it work?</h4>
-<p>Whenever we have a Managed Identity enabled on a Azure Service there is an internal endpoint service , which provides the needed access token. Than, we can use the token to access other services.
-<br>
-<br></p>
-<h4 id="how-to-use-it">How to use it?</h4>
-<p>When it comes to a service principal, we can grant API permissions to the service principal object directly in the Azure portal but, unfortunately, we do not have the same option for the Managed Identity object therefore, and at least for now, we can only achieve this through scripting .</p>
-<p>Current examples are focused on using the Managed Identity within <ins><a href="https://learn.microsoft.com/en-us/azure/automation/overview">Azure Automation Runbooks</a></ins></p>
-<br>
-<br>
-<h3 id="left-span-stylecolor0085a1-fo-azure-automation-runbooksspan"><left> <span style="color:#0085a1; fo"> Azure Automation Runbooks</span></h3>
-<p><strong>Goal:</strong> Test PnP.PowerShell CmdLets usage with Managed Identities<br></p>
-<p>Let&rsquo;s start with a simple PnP.PowerShell usage example:  get all MS Teams from our tenant :</p>
-<br>
-<p><strong>1. Enable Managed Identity</strong></p>
-<p>To be able to login using Managed Identity, we need to first <strong>enable</strong> the managed identity (in the example im using the System Assigned Identity) within the azure context we are using.<br><br>This can be done through the Azure Portal <br><br><div style="max-width:300px"><img src="/imgs/posts/mngid-aaccout.jpg" alt="mngid-aa"></div><br></p>
-<p><strong>2. Add Required App Permissions</strong></p>
-<p>To add the need permissions we can use PowerShell or any existing command lines clients. In this specific case , i do prefer to use the <ins><a href="https://pnp.github.io/cli-microsoft365/">CLI for Microsoft 365</a></ins>, it already has the proper methods in-place to achieve what&rsquo;s needed. <br>|</p>
-  <div style="max-width:110%;">
-<pre><code># Current managed identity object id
-$mngObjId='500c434f-7bd5-4f84-ac39-b69fa9be9b86'
-
-#login to the tenant
-m365 login --authType browser
-
-#Get current appId associated with our Managed Identity service principal
-$appId= (m365 aad sp get --objectId  | ConvertFrom-Json).appId
-
-#add required permissions for managing all SharePoint Sites
-m365 aad approleassignment add --appId $appId --resource &quot;SharePoint&quot; --scope &quot;Sites.FullControl.All&quot; 
-#add required permissions for getting a list of teams on the Office 365 tenant
-m365 aad approleassignment add --appId $appId --resource &quot;Microsoft Graph&quot; --scope &quot;Group.Read.All,User.Read.All&quot; 
-#logout
-m365 logout
-</code></pre>
-  </div>
-<p><strong>3. Create the RunBook and Test it</strong><br>
-<br>
-Simple PowerShell runbook to Get a Teams report &hellip;<br>
-Don&rsquo;t forget to <a href="https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery#runbooks-in-the-powershell-gallery">add</a> the PnP.PowerShell module to the automation account, or else PnP Cmdlets wont work.
-<br></p>
-<div style="max-width:110%; margin :10px">
-  Script:<br>
-<pre><code>#Connect using Managed Identity
-Connect-PnPOnline -ManagedIdentity
-#Get teams
-$teams= Get-PnPTeamsTeam
-$teams | Select-Object DisplayName,Visibility,IsArchived    
-</code></pre>
-  </div>
-<div style="max-width:300px ;margin :10px">
- Results:<br>
-<p><img src="/imgs/posts/mngid-teams.jpg" alt="mngid"></p>
-</div>
-<br >
-<p>Kinda simple &hellip;  no?
-<br>
-<br>
-Lets try to use <strong>Get-PnPWeb</strong> &hellip;</p>
-<div style="max-width:500px ;margin :10px">
- Results:<br>
-<p><img src="/imgs/posts/mngid-badsp.jpg" alt="mngid"></p>
-</div>
-<p>😶</p>
-<br >
-<p>According to the <a href="https://pnp.github.io/powershell/cmdlets/Connect-PnPOnline.html?q=ManagedIdentity#-managedidentity">PnP.Documentation</a> &hellip;</p>
-<p><em>&ldquo;Notice that using this connection method will not allow you to access SharePoint artifacts due to limitations of token acquisition. It will however allow you to use the Teams cmdlets, Flow cmdlets, Planner cmdlets and Microsoft 365 Group cmdlets.
-&ldquo;</em></p>
-<br>
-I know that it is probably a question of time to have this feature implemented with the PnP.PowerShell (this is already possible within C# code).
-<br>Nevertheless and because I needed this right now, I had to improvise... 
-<br>
-<br>
-<h4 id="the-solution--until-we-have-it-natively-on-the-pnppowershell">The Solution &hellip; until we have it natively on the PnP.PowerShell</h4>
-<br>
-<p><strong>We need a token (JWT) !</strong></p>
-<p>There is a couple  environment variables you can leverage to call the identity endpoint within our container &hellip;
-<br>
-<br></p>
-<table>
-<thead>
-<tr>
-<th>Variable</th>
-<th>Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>$env:endpoint</td>
-<td>http://127.0.0.1:20107/oauth2/token</td>
-</tr>
-<tr>
-<td>$env:header</td>
-<td>CS6Uym5hQBllslNHhdk08Tp42gIDVBr2hnRZz3XkyKw=</td>
-</tr>
-</tbody>
-</table>
-<br>
-<br>
-<p>&hellip;<strong>next</strong> we need to get our JWT making a web request to the needed Resource  (where the $ResourceURL = site we want to interact with )&hellip;</p>
-<br>
-<div style="max-width:110% ;margin :10px">
-<pre><code>$endpoint=$env:IDENTITY_ENDPOINT
-$header= $env:IDENTITY_HEADER
-$ResourceURL = $siteUrl
-$Response = [System.Text.Encoding]::Default.GetString((Invoke-WebRequest -UseBasicParsing  -Uri &quot;$($endpoint)?resource=$resourceURL&quot; -Method 'GET' -Headers @{'X-IDENTITY-HEADER' = &quot;$header&quot;; 'Metadata' = 'True'}).RawContentStream.ToArray()) | ConvertFrom-Json
-$AccessToken = $response.access_token
-</code></pre>
-</div>
-<p>&hellip; use the token in <strong>Connect-PnPOnline</strong></p>
-<div style="max-width:110% ;margin :10px">
-<pre><code>Connect-PnPOnline -Url $siteUrl -AccessToken $AccessToken
-</code></pre>
-</div>
-<br>
-... et voilá!
-<br>
-<br>
-<div style="max-width:500px ;margin :10px">
- Results:<br>
-<p><img src="/imgs/posts/mngid-good.jpg" alt="mngid"></p>
-</div>
-<br>
-<br>
-<p>The same concept can also be used with <strong>Azure Functions using PowerShell</strong>
-<br>
-<br></p>
-<p>🤠 <a href="https://pnp.github.io/powershell"><strong>PnP.PowerShell</strong></a> Rocks!!!! 🎸</p>
-<p>Hope it helps !
-<br>
+<p><strong>News Flash !</strong></p>
+<p>You might have noticed the blog&rsquo;s been on a little siesta,  it&rsquo;s all been for a good cause (and no, it&rsquo;s not a Netflix binge, although that did happen too). Over the past year, I&rsquo;ve been immersed in a couple of exciting side projects that have been both challenging and incredibly fulfilling&hellip;</p>
+<p>While the blog has been quieter than usual, rest assured, it&rsquo;s all for a good reason.</p>
+<p>So, what&rsquo;s the scoop? Well, think of it like this: I&rsquo;ve been on a creative rollercoaster, brewing up something a bit spicy and a whole lot of exciting.</p>
+<p>Over the next few weeks, I&rsquo;m going to peel back the curtain and share a couple of snippets of these top-secret projects. From automated development environments to streamline tools and scripts, it&rsquo;s been a wild ride, and I&rsquo;m stoked to finally let you guys\gals in on the action.</p>
+<p>These projects have been a labor of creativity, requiring time and dedication.</p>
+<p>I&rsquo;ve poured my heart and soul into these endeavors, and I&rsquo;m thrilled to share that the time has come to unveil some of the fruits of this labor.</p>
+<p>The topics will range from environments to development, tooling and scripting, each with its unique story and significance.</p>
+<p>I believe these projects align with the spirit of the community and will definitely bring a new dimension to the conversations.</p>
+<p>Stay curious, stay awesome, and get ready for the grand reveal !<br>
 <br></p>
        
         
         
           <div class="blog-tags">
             
-              <a href="//tags/tip/">Tip</a>&nbsp;
-            
-              <a href="//tags/sharepoint/">SharePoint</a>&nbsp;
-            
-              <a href="//tags/managed-identity/">Managed Identity</a>&nbsp;
-            
-              <a href="//tags/pnp.powershell/">PnP.PowerShell</a>&nbsp;
-            
-              <a href="//tags/powershell/">PowerShell</a>&nbsp;
+              <a href="//tags/news-update/">News Update</a>&nbsp;
             
           </div>
         
@@ -608,42 +458,42 @@ $AccessToken = $response.access_token
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=%2fmanaged-identity-rocks-with-pnp.powershell%2f&amp;text=%f0%9f%94%90%20%20Managed%20Identity%20rocks%20with%20PnP.PowerShell%20%21&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=%2fnews-update-stay-tuned-some-awesomeness-is-coming-...%2f&amp;text=%f0%9f%93%b0%20%20News%20Update%20%21%20Stay%20tuned%2c%20some%20awesomeness%20is%20coming%20...&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.facebook.com/sharer/sharer.php?u=%2fmanaged-identity-rocks-with-pnp.powershell%2f" target="_blank" title="Share on Facebook">
+        <a href="//www.facebook.com/sharer/sharer.php?u=%2fnews-update-stay-tuned-some-awesomeness-is-coming-...%2f" target="_blank" title="Share on Facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//reddit.com/submit?url=%2fmanaged-identity-rocks-with-pnp.powershell%2f&amp;title=%f0%9f%94%90%20%20Managed%20Identity%20rocks%20with%20PnP.PowerShell%20%21" target="_blank" title="Share on Reddit">
+        <a href="//reddit.com/submit?url=%2fnews-update-stay-tuned-some-awesomeness-is-coming-...%2f&amp;title=%f0%9f%93%b0%20%20News%20Update%20%21%20Stay%20tuned%2c%20some%20awesomeness%20is%20coming%20..." target="_blank" title="Share on Reddit">
           <i class="fab fa-reddit"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.linkedin.com/shareArticle?url=%2fmanaged-identity-rocks-with-pnp.powershell%2f&amp;title=%f0%9f%94%90%20%20Managed%20Identity%20rocks%20with%20PnP.PowerShell%20%21" target="_blank" title="Share on LinkedIn">
+        <a href="//www.linkedin.com/shareArticle?url=%2fnews-update-stay-tuned-some-awesomeness-is-coming-...%2f&amp;title=%f0%9f%93%b0%20%20News%20Update%20%21%20Stay%20tuned%2c%20some%20awesomeness%20is%20coming%20..." target="_blank" title="Share on LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.stumbleupon.com/submit?url=%2fmanaged-identity-rocks-with-pnp.powershell%2f&amp;title=%f0%9f%94%90%20%20Managed%20Identity%20rocks%20with%20PnP.PowerShell%20%21" target="_blank" title="Share on StumbleUpon">
+        <a href="//www.stumbleupon.com/submit?url=%2fnews-update-stay-tuned-some-awesomeness-is-coming-...%2f&amp;title=%f0%9f%93%b0%20%20News%20Update%20%21%20Stay%20tuned%2c%20some%20awesomeness%20is%20coming%20..." target="_blank" title="Share on StumbleUpon">
           <i class="fab fa-stumbleupon"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.pinterest.com/pin/create/button/?url=%2fmanaged-identity-rocks-with-pnp.powershell%2f&amp;description=%f0%9f%94%90%20%20Managed%20Identity%20rocks%20with%20PnP.PowerShell%20%21" target="_blank" title="Share on Pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=%2fnews-update-stay-tuned-some-awesomeness-is-coming-...%2f&amp;description=%f0%9f%93%b0%20%20News%20Update%20%21%20Stay%20tuned%2c%20some%20awesomeness%20is%20coming%20..." target="_blank" title="Share on Pinterest">
           <i class="fab fa-pinterest"></i>
         </a>
       </li>
@@ -657,19 +507,6 @@ $AccessToken = $response.access_token
 
         
           
-            
-          
-
-          
-                  <h4 class="see-also">See also</h4>
-                  <ul>
-                
-                
-                    <li><a href="/scoutmans-swiss-army-knife/">Scoutman&#39;s Swiss Army Knife</a></li>
-                
-                    <li><a href="/the-case-of-the-missing-field-.../">😰 The case of the missing field ...</a></li>
-                
-              </ul>
 
           
         
@@ -678,13 +515,9 @@ $AccessToken = $response.access_token
         <ul class="pager blog-pager">
           
             <li class="previous" style="background-color: black;">
-              <a href="/scoutmans-swiss-army-knife/" data-toggle="tooltip" data-placement="top" title="Scoutman&#39;s Swiss Army Knife">&larr;Previous Post</a>
+              <a href="/managed-identity-rocks-with-pnp.powershell/" data-toggle="tooltip" data-placement="top" title="🔐  Managed Identity rocks with PnP.PowerShell !">&larr;Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="/news-update-stay-tuned-some-awesomeness-is-coming-.../" data-toggle="tooltip" data-placement="top" title="📰  News Update ! Stay tuned, some awesomeness is coming ...">Next Post &rarr;</a>
-            </li>
           
         </ul>
       

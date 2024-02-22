@@ -3,8 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>/tags/news-update/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/news-update-stay-tuned-some-awesomeness-is-coming-.../</loc>
+    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/managed-identity/</loc>
     <lastmod>2022-09-20T22:18:17+00:00</lastmod>
@@ -12,16 +24,10 @@
     <loc>/tags/pnp.powershell/</loc>
     <lastmod>2022-09-20T22:18:17+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
-  </url><url>
     <loc>/tags/powershell/</loc>
     <lastmod>2022-09-20T22:18:17+00:00</lastmod>
   </url><url>
     <loc>/tags/sharepoint/</loc>
-    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-09-20T22:18:17+00:00</lastmod>
   </url><url>
     <loc>/tags/tip/</loc>
