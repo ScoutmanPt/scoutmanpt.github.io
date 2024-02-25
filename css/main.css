@@ -1356,3 +1356,295 @@ table.gstl_50.gssb_c {
 hr {
   margin-top: 44px;
 }
+/* ##custom  */
+/* --------------------------------- */
+/* * {
+	box-sizing: border-box;
+} */
+
+#bodycard2 {
+	font-family: 'Roboto Slab', serif;
+	font-size: 1.2rem;
+	margin: 0;
+	padding: 1rem;
+	display: grid;
+	place-items: center;
+	min-height: 100vh;
+}
+
+#olcard2 {
+	padding: 0;
+	margin: 0;
+	position: relative;list-style: none;
+}
+
+
+#olcard2::before {
+  content: '';
+  width: 0.5rem;
+  height: 48%;
+  position: absolute;
+  top: 51%;
+  left: 4%;
+  background:rgb(19, 209, 242);
+  z-index: -1;
+}
+#olcard22 {
+	padding: 0;
+	margin: 0;
+	position: relative;list-style: none;
+}
+#olcard22::before {
+  content: '';
+  width: 0.5rem;
+  height: 100%;
+  position: absolute;
+  top: -15%;
+  left: 97%;
+  backgroun1d:rgb(225, 225, 225);
+  background:rgb(19, 209, 242);
+  z-index: -1;
+  list-style: none;
+}
+
+#licard2 {
+  margin-left: 2%;
+	padding: 0.5rem 1.5rem 1rem;
+	border-radius: 1.5rem;
+  border: 3px solid rgb(225, 225, 225);
+	background: white;
+}
+
+#licard2 {
+	margin-top: 1rem;
+}
+
+/* divider */
+.content {
+  position: relative;
+  border-bottom: 0px solid;
+  text-align: center;
+  margin-cp: 0px;
+}
+
+.header {
+  height: 10px;
+  width: 10%;
+  z-index: 0;
+  margin-left: 45%;
+  position: relative;
+  border-bottom: 2px solid rgb(217, 216, 216);
+  z-index: 1;
+  
+}
+
+
+.circle {
+  width: 10px;
+  height: 10px;
+  border: 2px solid rgb(168, 164, 164);
+  background: white;
+  border-radius: 50%;
+  bottom: -5px;
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+  z-index: 2;
+}
+
+.footer {
+  height: 10px;
+}
+
+/* testimonials */
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+#bodyTestimonials{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 12px;
+}
+/* a:link,a:active,a:visited,a:hover{
+	color:#3f51b5;
+} */
+
+.outerdiv
+{
+	width: 100%;
+    min-height: 100vh;
+    background: #EDF2F8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.innerdiv
+{
+	margin: 1rem;
+	display: grid;
+	grid-gap: 1.5rem;
+	grid-template-columns: repeat(4,17rem);
+}
+.eachdiv
+{
+	padding: 1rem 2rem;
+  border-radius: 0.8rem;
+  box-shadow: 5px 5px 20px #6d6b6b6b;
+  color: white;
+}
+.div1
+{
+  background: #1f047ac0;
+  grid-column: 1/4;
+  grid-row: 1/2;
+  background-image: url(https://raw.githubusercontent.com/RahulSahOfficial/testimonials_grid_section/5532c95…/images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position-x: 25rem;
+}
+
+.div3
+{
+	background: white;
+    grid-column: 4/5;
+    grid-row: 1/3;
+    color: black;
+}
+.div4
+{
+	background: white;
+	grid-column: 1/2;
+    grid-row: 2/3;
+    color: black;
+}
+.div5
+{
+	background: #18202D;
+	grid-column: 2/4;
+    grid-row: 2/3;
+}
+.userdetails
+{
+	display: flex;
+}
+.imgbox
+{
+	margin-right: 1rem;
+}
+.imgbox img
+{
+	border-radius: 50%;
+	width: 3rem;
+  height: 3rem;
+	border: 2px solid #cec5c5;
+}
+.detbox
+{
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.detbox p
+{
+	margin: 0;
+}
+.detbox .name
+{
+	  c1olor: hsl(0, 0%, 81%);
+    color: black;
+    font-size: 0.9rem;
+    margin-bottom: 0.1rem;
+    font-weight: 600;
+    max-width: 60px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 1px solid #adadad;
+    text-align: center;
+    padding-left: 5px;
+}
+.detbox .name.dark
+{
+	color: #49505A;
+}
+.detbox .designation
+{
+	c1olor: hsl(0, 0%, 81%);
+  op1acity: 50%;
+  font-size: 9px;
+}
+.detbox .designation.dark
+{
+	color: #49505A;
+}
+.review h4
+{
+	font-size: 1.4rem;
+	color: #F3DEFF;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 0.8rem;
+}
+.review.dark h4{
+	color:#4B5258;
+}
+.review p
+{
+	font-size: 0.95rem;
+    color: #F3DEFF;
+    font-weight: 500;
+    opacity: 50%;
+    line-height: 1.5;
+}
+.review.dark p{
+	color: #0e0e0e;
+}
+.attribution
+{
+	font-size: 1rem;
+    line-height: 1.5;
+    position: fixed;
+    bottom: 1rem;
+    right: 1rem;
+    text-align: right;
+}
+.attribution a
+{
+	text-decoration: none;
+}
+
+@media only screen and (max-width: 1000px)
+{
+	.innerdiv
+	{
+		transform: scale(0.7);
+	}
+}
+@media only screen and (max-width: 800px)
+{
+	.innerdiv
+	{
+		transform: scale(0.6);
+	}
+}
+@media only screen and (max-width: 600px)
+{
+	.div1 {
+		background-position-x: 10rem;
+	}
+	.innerdiv
+	{
+		display: flex; 
+		flex-direction: column;
+		transform: scale(1);
+		margin: 2rem;
+		margin-bottom: 5rem;
+	}
+	.attribution
+	{
+		position: relative;
+	}
+}
