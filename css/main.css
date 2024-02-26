@@ -1648,3 +1648,17 @@ hr {
 		position: relative;
 	}
 }
+
+/* zoom img */
+#zoomImg {
+   padding: 50px; 
+  transition: transform .1s; /* Animation */
+  /* width: 200px; 
+   height: 200px; */
+  margin: 0 auto;
+  box-shadow:none !important;width:430px;text-align:center
+}
+
+#zoomImg:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
