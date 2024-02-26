@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚜️  Episode I of V - A Technical Baseline</title>
+      <link>/%EF%B8%8F-episode-i-of-v-a-technical-baseline/</link>
+      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/%EF%B8%8F-episode-i-of-v-a-technical-baseline/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240223/landscape.png&#34; alt=&#34;newsupdate&#34;&gt;&lt;br&gt;
+Get your curiosity caps on, we&amp;rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &amp;hellip; or at least, I&amp;rsquo;m hoping it will (for better ! not worse 🤠).&lt;/p&gt;
+&lt;p&gt;So it begins &amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>📰  News Update ! Stay tuned, some awesomeness is coming ...</title>
       <link>/news-update-stay-tuned-some-awesomeness-is-coming-.../</link>
@@ -65,17 +76,6 @@ It is a Windows Forms &amp;ldquo;ShortCut&amp;rdquo; builder tool where we can a
 &lt;p&gt;&lt;img src=&#34;/imgs/fistpost.jpg&#34; alt=&#34;firstpost&#34;&gt;&lt;/p&gt;
 &lt;br&gt;
 Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...</description>
-    </item>
-    
-    <item>
-      <title>⚜️  Episode II of V - Revolutionize your tech workflow with a single command</title>
-      <link>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240223/landscape4.png&#34; alt=&#34;newsupdate&#34;&gt;&lt;br&gt;
-Get your curiosity caps on, we&amp;rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &amp;hellip; or at least, I&amp;rsquo;m hoping it will (for better ! not worse 🤠).&lt;/p&gt;
-&lt;p&gt;So it begins &amp;hellip;&lt;/p&gt;</description>
     </item>
     
   </channel>
