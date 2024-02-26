@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Containers on Scoutman</title>
-    <link>/tags/containers/</link>
-    <description>Recent content in Containers on Scoutman</description>
+    <title>WSL on Scoutman</title>
+    <link>/tags/wsl/</link>
+    <description>Recent content in WSL on Scoutman</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Mon, 26 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/containers/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️  Episode I of V - A Technical Baseline</title>
-      <link>/%EF%B8%8F-episode-i-of-v-a-technical-baseline/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-episode-i-of-v-a-technical-baseline/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240223/landscape.png&#34; alt=&#34;newsupdate&#34;&gt;&lt;br&gt;
-Get your curiosity caps on, we&amp;rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &amp;hellip; or at least, I&amp;rsquo;m hoping it will (for better ! not worse 🤠).&lt;/p&gt;
-&lt;p&gt;So it begins &amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
+    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><atom:link href="/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>⚜️  Episode II of V - Revolutionize your tech workflow with a single command</title>
       <link>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</link>
