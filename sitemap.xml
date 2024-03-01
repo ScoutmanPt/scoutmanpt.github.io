@@ -3,23 +3,29 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>/tags/automation/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/containers/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/environment/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2024-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/wsl/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</loc>
+    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/technical-baseline/</loc>
     <lastmod>2024-02-26T00:00:00+00:00</lastmod>
