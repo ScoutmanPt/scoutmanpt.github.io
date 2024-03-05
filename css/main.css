@@ -1658,3 +1658,14 @@ hr {
 #zoomImg:hover {
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
+
+#imgSpfx{
+  /* transition: transform .3s; 
+  box-shadow:none !important;max-width:300px; */
+  border-radius:0px;
+  flo1at:left;
+  margin: 2px;
+  
+  hei1ght: 100px;
+}
+
