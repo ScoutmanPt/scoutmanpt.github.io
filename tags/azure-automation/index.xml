@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Automation on Scoutman</title>
+    <link>/tags/azure-automation/</link>
+    <description>Recent content in Azure Automation on Scoutman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
+    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/azure-automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code</title>
+      <link>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid>
+      <description>&lt;p&gt;Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
+&lt;img src=&#34;/imgs/posts/2026/azrworkbench.svg&#34; alt=&#34;Azure Runbook Workbench&#34;&gt;
+Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

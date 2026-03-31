@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code</title>
+      <link>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid>
+      <description>&lt;p&gt;Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
+&lt;img src=&#34;/imgs/posts/2026/azrworkbench.svg&#34; alt=&#34;Azure Runbook Workbench&#34;&gt;
+Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>⚜️ Preparing Something Special</title>
       <link>/%EF%B8%8F-preparing-something-special/</link>
