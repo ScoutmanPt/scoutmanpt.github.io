@@ -7,43 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Sat, 13 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Announcement</title>
-      <link>/tags/announcement/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/announcement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book Release</title>
-      <link>/tags/book-release/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/book-release/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft 365</title>
-      <link>/tags/microsoft-365/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/microsoft-365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SharePoint Online</title>
-      <link>/tags/sharepoint-online/</link>
-      <pubDate>Sat, 13 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/sharepoint-online/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure</title>
       <link>/tags/azure/</link>
@@ -90,11 +54,47 @@
     </item>
     
     <item>
+      <title>Microsoft 365</title>
+      <link>/tags/microsoft-365/</link>
+      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/microsoft-365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SCIM</title>
       <link>/tags/scim/</link>
       <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/scim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Announcement</title>
+      <link>/tags/announcement/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Release</title>
+      <link>/tags/book-release/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/book-release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharePoint Online</title>
+      <link>/tags/sharepoint-online/</link>
+      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/sharepoint-online/</guid>
       <description></description>
     </item>
     
