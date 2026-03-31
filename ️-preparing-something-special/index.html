@@ -8,9 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Scoutman.pt - thoughts on Architecture, Automation, Development and Technical Leadership </title>
-  <meta name="description" content="
-Get your curiosity caps on, we&rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &hellip; or at least, I&rsquo;m hoping it will (for better ! not worse 🤠).
-So it begins &hellip;">
+  <meta name="description" content="I have been preparing something special.
+It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.
+Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment. We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.">
   <meta name="author" content="rodrigo pinto"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -46,8 +46,8 @@ So it begins &hellip;">
         "@type": "ListItem",
         "position": 3,
         "item": {
-          "@id": "\/%EF%B8%8F-episode-i-of-iii-a-technical-baseline\/",
-          "name": "Episode i of iii a technical baseline"
+          "@id": "\/%EF%B8%8F-preparing-something-special\/",
+          "name": "Preparing something special"
         }
     }]
 }
@@ -58,15 +58,15 @@ So it begins &hellip;">
   "author": {
     "name" : "rodrigo pinto"
   },
-  "headline": "⚜️  Episode I of III - A Technical Baseline",
-  "description" : "Get your curiosity caps on, we\u0026rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, \u0026hellip; or at least, I\u0026rsquo;m hoping it will (for better ! not worse 🤠).\nSo it begins \u0026hellip;\n",
+  "headline": "⚜️ Preparing Something Special",
+  "description" : "I have been preparing something special.\nIt has been quietly taking shape for a while now, and it comes from a frustration I have had for years.\nAnyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment. We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.\n",
   "inLanguage" : "en",
-  "wordCount":  1041 ,
-  "datePublished" : "2024-02-26T00:00:00",
-  "dateModified" : "2024-02-26T00:00:00",
+  "wordCount":  318 ,
+  "datePublished" : "2025-12-15T00:00:00",
+  "dateModified" : "2025-12-15T00:00:00",
   "image" : "\/imgs\/scoutman.jpg",
-  "keywords" : [ "Technical Baseline, Environment, Containers, Automation" ],
-  "mainEntityOfPage" : "\/%EF%B8%8F-episode-i-of-iii-a-technical-baseline\/",
+  "keywords" : [ "Teaser, Azure, Automation, Visual Studio Code, PowerShell, Python" ],
+  "mainEntityOfPage" : "\/%EF%B8%8F-preparing-something-special\/",
   "publisher" : {
     "@type": "Organization",
     "name" : "\/",
@@ -80,18 +80,19 @@ So it begins &hellip;">
 }
 </script>
 
-<meta property="og:title" content="⚜️  Episode I of III - A Technical Baseline" />
-<meta property="og:description" content="
-Get your curiosity caps on, we&rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &hellip; or at least, I&rsquo;m hoping it will (for better ! not worse 🤠).
-So it begins &hellip;">
+<meta property="og:title" content="⚜️ Preparing Something Special" />
+<meta property="og:description" content="I have been preparing something special.
+It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.
+Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment. We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.">
 <meta property="og:image" content="/imgs/scoutman.jpg" />
-<meta property="og:url" content="/%EF%B8%8F-episode-i-of-iii-a-technical-baseline/" />
+<meta property="og:url" content="/%EF%B8%8F-preparing-something-special/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Scoutman" />
 
-  <meta name="twitter:title" content="⚜️  Episode I of III - A Technical Baseline" />
-  <meta name="twitter:description" content="
-Get your curiosity caps on, we&rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &hellip; or at …">
+  <meta name="twitter:title" content="⚜️ Preparing Something Special" />
+  <meta name="twitter:description" content="I have been preparing something special.
+It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.
+Anyone who has spent serious time with Azure Automation …">
   <meta name="twitter:image" content="/imgs/scoutman.jpg" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@scoutmanpt" />
@@ -417,128 +418,55 @@ if (!doNotTrack) {
       <div class="col-lg-10 col-lg-offset-1 col-lg-10">
       <article role="main" class="blog-post">
         
-        <div class="post-innerTitle" >⚜️  Episode I of III - A Technical Baseline
+        <div class="post-innerTitle" >⚜️ Preparing Something Special
 </div>
         
         
         
-        <p><img src="/imgs/posts/20240223/landscape.png" alt="newsupdate"><br>
-Get your curiosity caps on, we&rsquo;re about to embark on a five-part journey (the first one, more to follow) through something that will change the path of your technical projects, &hellip; or at least, I&rsquo;m hoping it will (for better ! not worse 🤠).</p>
-<p>So it begins &hellip;</p>
-<p><br>
-I&rsquo;ve been tech-leading technical teams and communities for a while now, and I often get asked what are the crucial baselines to get started to drive technical projects\teams. So, it makes total sense, to start this story with what has been working for me and my teams\communities\clients.</p>
-<p>And yes, it&rsquo;s a bit of a long list, and a lot of bla,bla, bla, and looks too generic, nevertheless, I wish someone had given me this list when I started &hellip;</p>
-<p>I&rsquo;ve been using it for years so it&rsquo;s a good starting point</p>
-<br/>
-<div id='#bodycard2'>
-<ol id="olcard2">
- <li id="licard12">
-  <img id="zoomImg" src="/imgs/posts/20240223/lion.jpg" sty2le=""/>
-  <h2 style='margin-top:15px;margin-bottom:40px;box-shadow:0;text-align :center;color: #0085a1;'
-  > Technical Baseline Commitments</h2></li>
- <li id="licard2"><h4 style='margin-top:10px'
-  >👁️ Clear Vision and Goals</h4> We must define a clear and compelling vision for the team or community and establish measurable goals that align with broader organizational objectives.</li>
-  <li id="licard2"><h4 style='margin-top:5px'
->🗣️ Effective Communication</h4> Develop strong communication skills for both technical and non-technical stakeholders, fostering an open and transparent communication culture within the team.</li>  
- <li id="licard2"><h4 style='margin-top:5px'
-  >😎 Leadership, Motivation, Community</h4> inspire and motivate team members through effective leadership by understanding individual strengths and weaknesses to build a cohesive team..</li>  
-</ol>
-</div>
-<br>
-<div style="margin-left:0px; margin-bottom:30px;max-width:88%">
-Those previous sentences sound like pre-made jargon, but take a moment to think about it and mature on it.
-</div>
-<div id='#bodycard2'>
-<ol id="olcard22">
- <li id="licard2"><h4 style='margin-top:10px'
-  >🧑‍💻 Technical Proficiency</h4> We must foster continuous learning within the team and stay updated on industry trends and emerging technologies.
-<p>It is quite difficult and really hard to be &ldquo;updated&rdquo; on everything, companies keep dumping new stuff every hour, nevertheless, it&rsquo;s a must.</p>
-<p>💡<strong>TIP</strong>:A trick we as a team usually use is to keep a close eye on the community and the open source projects (<a href="%5Bhhtps://#%5D(https://pnp.github.io/)">PnP initiative</a> is one of them), they are the ones that usually bring the new stuff first.</li></p>
-  <li id="licard2"><h4 style='margin-top:5px'
->👨‍🏫 Promote coding standards, and best practices</h4> This is mandatory, we need to prioritize code quality and testing to ensure reliable products\projects even operational tass. Things like code reviews, unit testing, and continuous integration must be enforced.
-</li>  
- <li id="licard2"><h4 style='margin-top:5px'
-  >♾️ Proper Tooling and Environment </h4>No surprises here : mandatory.
-<p>Tools are important so make sure you have it all: DevOps with <strong>Continuous Integration\Deployment</strong> (tasks, source control repos ), VSCode, Visual Studio, or whatever is adjusted to your needs.
-They can make or break a project, period. Choose wisely.</p>
-</li>  
-</ol>  
-<br>
-<p><em>A long time ago in a galaxy not that far, far away&hellip;</em></p>
-<p>I&rsquo;ve worked with a team that was still deploying projects\products manually ( a couple of powershell\bash scripts but still &hellip;): they were spending approximately <strong>3 days</strong>  to deploy a new version of the product &hellip;  say what??? 🤷</p>
-<p>Looking at the entire process put in place at that time, it looked like a <a href="https://www.youtube.com/watch?v=iV2ViNJFZC8&amp;t=199s">Monty Python</a> sketch :</p>
+        <p>I have been preparing something special.</p>
+<p>It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.</p>
+<p>Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment. We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.</p>
+<p>That gap has bothered me for a long time.</p>
+<p>I wanted something that treats runbooks like real source code.</p>
+<p>Something workspace-first.
+Something Azure-connected.
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.</p>
+<p>So I have been building toward that idea.</p>
+<p>The goal is simple: make it easier to work locally, stay organized, validate changes with confidence, compare what is in source control against what is in Azure, and move from development to deployment in a way that feels natural.</p>
+<p>It is being shaped for the people who want to:</p>
 <ul>
-<li>manual process</li>
-<li>each step implied validation and configuration by 2 resources</li>
-<li>complex deployment methods</li>
+<li>work with runbooks from a real local workspace</li>
+<li>fetch, edit, compare, and publish without unnecessary friction</li>
+<li>test locally with mocked assets</li>
+<li>debug properly</li>
+<li>keep things structured and repeatable</li>
+<li>prepare for CI/CD without turning every project into a custom puzzle</li>
 </ul>
-<p>The entire process was a nightmare and led to a lot of problems and errors.</p>
-<p>We&rsquo;ve implemented a simple CI\CD pipeline (no rocket science there), and the deployment time went from <strong>3 days</strong> &hellip; to <strong>1 hour</strong>.</p>
-<p>So if you think DevOps and Pipelines are not for you, think again: it must be part of  developers, IT consultants, and DevOps engineer&rsquo;s DNA.</p>
-<p>It became part of the initial project setup, no matter the size, even for small projects.</p>
-<br>
-<br>
-</div>
-<img id="zoomImg" src="/imgs/posts/20240223/moving.jpg" style="width:630px"/>
-  <h2 style='margin-top:25px;margin-bottom:40px;box-shadow:0;text-align :center;color: #0085a1;'
-  > Environments, Environments, Environments</h2>
-<p><strong>Ready-to-go technical environments</strong> are essentials as they significantly enhance efficiency and ensure quality helping in streamlining workflows, minimizing the chances of errors, and enabling effective management. We also need to make sure our environments are <strong>isolated</strong> and <strong>reproducible</strong>.</p>
-<p>That&rsquo;s where <strong>containers</strong> come in.</p>
-<br>
-<h3 id="containers">🫙Containers</h3>
-<br>
-<p><strong>Containers</strong> provide <ins>isolated environments</ins> with their filesystem, networking, memory, and CPU, ensuring that there are <strong>no conflicts</strong> with other projects or software on the local machine. Why is this, so important?</p>
-<p>Developers/IT Consultants and DevOps folks need to be <strong>able to work on multiple projects</strong> without worrying about conflicts between dependencies, libraries, or software versions. We need <strong>isolation</strong> and we need it fast!</p>
-<p>Containers also offer <strong>reproducible builds</strong>, providing the exact <ins><strong>same environment every time they&rsquo;re launched</strong></ins>, which helps in avoiding &ldquo;it works on my machine&rdquo; issues. The days of setting up a new environment from scratch are over, and containers are the reason why.</p>
-<p>Still not using a container?</p>
-<p>If you are a Developer, an IT professional, or a DevOps engineer, you&rsquo;re missing a lot &hellip;</p>
-<br>
-<h3 id="-being-productive-with-automation">🦾 Being productive with automation</h3>
-<br>
-<p>Development workloads and workflows <strong>should be streamlined</strong> by providing <strong>pre-configured environments within containers</strong> ready to code\script in, straight out of the box, <strong>reducing the setup time for starting a new project</strong> and allowing us to dive right into work without dealing with any installation or configuration.</p>
-<p>I do remember the days of setting up a new environment from scratch and it was a time-consuming and error-prone process.<br>
-Containers changed the game.</p>
-<p>The <strong>automation of repetitive tasks</strong>, such as <strong>testing</strong>, <strong>building</strong> and <strong>deployment</strong> and <strong>everything that can be scripted</strong> should be part of the container, ensuring that the process is consistent and repeatable across different environments&hellip;. every single time.</p>
-<p>Keep in mind that is not just for <strong>Developers</strong>, the <strong>IT</strong> ,<strong>DevOps</strong> and even the <strong>support\operational</strong> folks <ins>must use the same concepts.</ins></p>
-<br>
-<h3 id="-customization-flexibility-and-consistency--high-quality-projects-no-matter-the-size">🧙‍♂️ Customization, flexibility and consistency = high quality projects no matter the size</h3>
-<br>
-<p><strong>Environments</strong> must be <strong>flexible</strong> and <strong>easy customizable</strong> , to meet specific needs and requirements.</p>
-<p>The <strong>flexibility</strong> allows a <strong>consistent environment creation</strong> across different stages ensuring that the environment is in a predictable state throughout the process.</p>
-<p>Encapsulating the environment within a container ensures that everyone in the team is working in the same environment, leading to more consistent and predictable outcomes</p>
-<br>
-<br>
-<div class="content">
-  <div class="header">
-  </div>
-  <div class="circle">
-    <i class="fa fa-arrow-circle-o-down" aria-hidden="true"></i>
-  </div>
-</div>
-<div class="footer">
-</div>
-<br>
-<br>
-Probably most of you already know the concepts of the mentioned baseline, containers, and automation, but I've still seen a lot of teams and projects that simply don't have a clue what's going on in this field.
-<p>Hope it helps, and if you are already using these concepts, keep it up, it&rsquo;s the way to go.</p>
-<p>Stay tuned, and get ready for the next episode  <strong>Episode II of V - Revolutionize your tech workflow with a single command</strong></p>
-<br>
-<div style='text-align :center'  >
-  <span style="font-size:8px" >Marginal Gags (small hand-made cartoons) credits : awesome <a href='https://sergioaragones.com/'>Sergio Aragonez !</a> creator of <a href='https://groo.com'>Groo, the Wanderer</a></span>
-</div>
-<br>
+<p>PowerShell is at the heart of it, because that is still where a lot of real-world Azure Automation work lives today.</p>
+<p>But I also wanted to keep the door open for Python, because that story matters too and it deserves a better development experience than what we usually get.</p>
+<p>This is not about making things flashy.</p>
+<p>It is about making them practical.
+Reliable.
+Maintainable.
+Useful.</p>
+<p>I am not ready to reveal everything just yet, but I can say this much: it is being built for the kind of workflow I always wished existed when working seriously with Azure Automation.</p>
+<p>More soon.</p>
        
         
         
           <div class="blog-tags">
             
-              <a href="//tags/technical-baseline/">Technical Baseline</a>&nbsp;
+              <a href="//tags/teaser/">Teaser</a>&nbsp;
             
-              <a href="//tags/environment/">Environment</a>&nbsp;
-            
-              <a href="//tags/containers/">Containers</a>&nbsp;
+              <a href="//tags/azure/">Azure</a>&nbsp;
             
               <a href="//tags/automation/">Automation</a>&nbsp;
+            
+              <a href="//tags/visual-studio-code/">Visual Studio Code</a>&nbsp;
+            
+              <a href="//tags/powershell/">PowerShell</a>&nbsp;
+            
+              <a href="//tags/python/">Python</a>&nbsp;
             
           </div>
         
@@ -553,42 +481,42 @@ Probably most of you already know the concepts of the mentioned baseline, contai
     <ul class="share">
       
       <li>
-        <a href="//twitter.com/share?url=%2f%25EF%25B8%258F-episode-i-of-iii-a-technical-baseline%2f&amp;text=%e2%9a%9c%ef%b8%8f%20%20Episode%20I%20of%20III%20-%20A%20Technical%20Baseline&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
+        <a href="//twitter.com/share?url=%2f%25EF%25B8%258F-preparing-something-special%2f&amp;text=%e2%9a%9c%ef%b8%8f%20Preparing%20Something%20Special&amp;via=scoutmanpt" target="_blank" title="Share on Twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.facebook.com/sharer/sharer.php?u=%2f%25EF%25B8%258F-episode-i-of-iii-a-technical-baseline%2f" target="_blank" title="Share on Facebook">
+        <a href="//www.facebook.com/sharer/sharer.php?u=%2f%25EF%25B8%258F-preparing-something-special%2f" target="_blank" title="Share on Facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//reddit.com/submit?url=%2f%25EF%25B8%258F-episode-i-of-iii-a-technical-baseline%2f&amp;title=%e2%9a%9c%ef%b8%8f%20%20Episode%20I%20of%20III%20-%20A%20Technical%20Baseline" target="_blank" title="Share on Reddit">
+        <a href="//reddit.com/submit?url=%2f%25EF%25B8%258F-preparing-something-special%2f&amp;title=%e2%9a%9c%ef%b8%8f%20Preparing%20Something%20Special" target="_blank" title="Share on Reddit">
           <i class="fab fa-reddit"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.linkedin.com/shareArticle?url=%2f%25EF%25B8%258F-episode-i-of-iii-a-technical-baseline%2f&amp;title=%e2%9a%9c%ef%b8%8f%20%20Episode%20I%20of%20III%20-%20A%20Technical%20Baseline" target="_blank" title="Share on LinkedIn">
+        <a href="//www.linkedin.com/shareArticle?url=%2f%25EF%25B8%258F-preparing-something-special%2f&amp;title=%e2%9a%9c%ef%b8%8f%20Preparing%20Something%20Special" target="_blank" title="Share on LinkedIn">
           <i class="fab fa-linkedin"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.stumbleupon.com/submit?url=%2f%25EF%25B8%258F-episode-i-of-iii-a-technical-baseline%2f&amp;title=%e2%9a%9c%ef%b8%8f%20%20Episode%20I%20of%20III%20-%20A%20Technical%20Baseline" target="_blank" title="Share on StumbleUpon">
+        <a href="//www.stumbleupon.com/submit?url=%2f%25EF%25B8%258F-preparing-something-special%2f&amp;title=%e2%9a%9c%ef%b8%8f%20Preparing%20Something%20Special" target="_blank" title="Share on StumbleUpon">
           <i class="fab fa-stumbleupon"></i>
         </a>
       </li>
   
       
       <li>
-        <a href="//www.pinterest.com/pin/create/button/?url=%2f%25EF%25B8%258F-episode-i-of-iii-a-technical-baseline%2f&amp;description=%e2%9a%9c%ef%b8%8f%20%20Episode%20I%20of%20III%20-%20A%20Technical%20Baseline" target="_blank" title="Share on Pinterest">
+        <a href="//www.pinterest.com/pin/create/button/?url=%2f%25EF%25B8%258F-preparing-something-special%2f&amp;description=%e2%9a%9c%ef%b8%8f%20Preparing%20Something%20Special" target="_blank" title="Share on Pinterest">
           <i class="fab fa-pinterest"></i>
         </a>
       </li>
@@ -610,11 +538,15 @@ Probably most of you already know the concepts of the mentioned baseline, contai
                   <ul>
                 
                 
-                    <li><a href="/%EF%B8%8F-preparing-something-special/">⚜️ Preparing Something Special</a></li>
+                    <li><a href="/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/"> ⚜️  Speaking at ESPC25: Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure</a></li>
                 
                     <li><a href="/%EF%B8%8F-episode-iii-of-iii-setup-your-spfx-development-in-wsl2-...-with-pnpwsl2/">⚜️ Episode III of III - Setup your SPFx development in WSL2 ... with PnPWsl2 !</a></li>
                 
                     <li><a href="/%EF%B8%8F-episode-ii-of-iii-revolutionize-your-tech-workflow-with-a-single-command/">⚜️  Episode II of III - Revolutionize your tech workflow with a single command</a></li>
+                
+                    <li><a href="/%EF%B8%8F-episode-i-of-iii-a-technical-baseline/">⚜️  Episode I of III - A Technical Baseline</a></li>
+                
+                    <li><a href="/managed-identity-rocks-with-pnp.powershell/">🔐  Managed Identity rocks with PnP.PowerShell !</a></li>
                 
               </ul>
 
@@ -625,13 +557,9 @@ Probably most of you already know the concepts of the mentioned baseline, contai
         <ul class="pager blog-pager">
           
             <li class="previous" style="background-color: black;">
-              <a href="/news-update-stay-tuned-some-awesomeness-is-coming-.../" data-toggle="tooltip" data-placement="top" title="📰  News Update ! Stay tuned, some awesomeness is coming ...">&larr;Previous Post</a>
+              <a href="/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/" data-toggle="tooltip" data-placement="top" title="⚜️ A Special ESPC25 Moment: Handing My Book to Adam Harmetz">&larr;Previous Post</a>
             </li>
           
-          
-            <li class="next">
-              <a href="/%EF%B8%8F-episode-ii-of-iii-revolutionize-your-tech-workflow-with-a-single-command/" data-toggle="tooltip" data-placement="top" title="⚜️  Episode II of III - Revolutionize your tech workflow with a single command">Next Post &rarr;</a>
-            </li>
           
         </ul>
       

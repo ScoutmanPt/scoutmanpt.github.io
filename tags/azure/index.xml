@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Sat, 06 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>⚜️ Preparing Something Special</title>
+      <link>/%EF%B8%8F-preparing-something-special/</link>
+      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/%EF%B8%8F-preparing-something-special/</guid>
+      <description>&lt;p&gt;I have been preparing something special.&lt;/p&gt;
+&lt;p&gt;It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p&gt;
+&lt;p&gt;Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment. We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title> ⚜️  Speaking at ESPC25: Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure</title>
       <link>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</link>
