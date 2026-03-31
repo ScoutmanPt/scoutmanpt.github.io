@@ -3,29 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
     <loc>/tags/automation/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/containers/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/environment/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/technical-baseline/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</loc>
-    <lastmod>2024-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2024-07-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</loc>
+    <lastmod>2024-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/candy/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
@@ -35,9 +38,6 @@
   </url><url>
     <loc>/tags/wsl/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/%EF%B8%8F-episode-ii-of-v-revolutionize-your-tech-workflow-with-a-single-command/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/%EF%B8%8F-episode-iii-of-v-setup-your-spfx-development-in-wsl2-...-with-pnpwsl2/</loc>
     <lastmod>2024-03-06T00:00:00+00:00</lastmod>
