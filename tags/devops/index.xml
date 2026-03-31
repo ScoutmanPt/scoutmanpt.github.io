@@ -14,9 +14,9 @@
       <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid>
-      <description>&lt;p&gt;Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
-&lt;img src=&#34;/imgs/posts/2026/azrworkbench.svg&#34; alt=&#34;Azure Runbook Workbench&#34;&gt;
-Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/azrworkbench.svg&#34; alt=&#34;Azure Runbook Workbench&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.&lt;/p&gt;</description>
     </item>
     
   </channel>

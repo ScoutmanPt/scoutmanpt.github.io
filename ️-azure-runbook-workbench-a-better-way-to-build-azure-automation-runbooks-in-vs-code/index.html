@@ -8,9 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
   <title>Scoutman.pt - thoughts on Architecture, Automation, Development and Technical Leadership </title>
-  <meta name="description" content="Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
+  <meta name="description" content="I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.
 
-Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.">
+Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.">
   <meta name="author" content="rodrigo pinto"/><script type="application/ld+json">
 {
     "@context": "http://schema.org",
@@ -59,9 +59,9 @@ Too often, building and maintaining runbooks means bouncing between the Azure po
     "name" : "rodrigo pinto"
   },
   "headline": "⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code",
-  "description" : "Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should. Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.\n",
+  "description" : "I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.\nToo much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.\n",
   "inLanguage" : "en",
-  "wordCount":  804 ,
+  "wordCount":  292 ,
   "datePublished" : "2026-03-29T00:00:00",
   "dateModified" : "2026-03-29T00:00:00",
   "image" : "\/imgs\/scoutman.jpg",
@@ -81,18 +81,18 @@ Too often, building and maintaining runbooks means bouncing between the Azure po
 </script>
 
 <meta property="og:title" content="⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code" />
-<meta property="og:description" content="Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
+<meta property="og:description" content="I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.
 
-Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.">
+Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.">
 <meta property="og:image" content="/imgs/scoutman.jpg" />
 <meta property="og:url" content="/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Scoutman" />
 
   <meta name="twitter:title" content="⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation …" />
-  <meta name="twitter:description" content="Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
+  <meta name="twitter:description" content="I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.
 
-Too often, building and maintaining runbooks means bouncing between …">
+Too much of the process ended up split between the Azure …">
   <meta name="twitter:image" content="/imgs/scoutman.jpg" />
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@scoutmanpt" />
@@ -423,29 +423,17 @@ if (!doNotTrack) {
         
         
         
-        <p>Azure Automation has always been useful, but the development experience around it has often felt more fragmented than it should.
-<img src="/imgs/posts/2026/azrworkbench.svg" alt="Azure Runbook Workbench">
-Too often, building and maintaining runbooks means bouncing between the Azure portal, local scripts, ad-hoc testing, and deployment steps that live somewhere else entirely. That works, but it rarely feels like a modern engineering workflow.</p>
-<p>That is exactly the gap <strong>Azure Runbook Workbench</strong> is trying to close.</p>
-<p>It is a modern Visual Studio Code extension built for Azure Automation development with a clear workspace-first approach. Instead of treating the portal as the center of everything, the extension treats your local repo as the real development environment, while Azure becomes the place you connect to, fetch from, validate against, and deploy back to.</p>
-<p>In practice, that means you can browse Automation Accounts, pull down runbooks, edit them locally like normal source files, compare your changes with what is deployed, upload drafts, publish updates, test runbooks locally with mocked assets, and even generate CI/CD starter pipelines from inside VS Code.</p>
-<p>That is the kind of workflow Azure Automation has been missing for a long time.</p>
-<p>I have worked with Azure Automation since the service first appeared, and one frustration kept coming back: too much context switching, too much portal dependency, and too little support for a proper developer workflow. There have been older attempts at solving this in VS Code, but they either aged out, stopped evolving, or never really aligned with the way teams actually build and maintain automation today.</p>
-<p>Azure Runbook Workbench was created as a more practical and maintainable alternative, with the idea that runbook development should feel closer to real software engineering and less like trial and error inside a browser tab.</p>
-<p>The extension already covers a broad set of day-to-day tasks.</p>
-<p>You can browse subscriptions, Automation Accounts, runbooks, schedules, assets, modules, Python packages, runtime environments, recent jobs, and hybrid worker groups. You can initialize a workspace, connect one or more accounts to it, fetch published or draft runbooks, create new runbooks directly from VS Code, and push changes back either as drafts or as published versions.</p>
-<p>It also supports local comparison, local execution, and local debugging, which is where things become especially useful.</p>
-<p>For PowerShell runbooks, the extension can run code locally with mocked Azure Automation assets, stream execution details into a dedicated session panel, and support debugging directly from VS Code, including the usual <code>F5</code> flow on an open runbook file. If extra modules are needed for local execution, they can be saved into an isolated workspace-local module cache instead of polluting the wider PowerShell environment.</p>
-<p>Python support is there as well for fetching, creating, uploading, publishing, running, and debugging runbooks locally. At the moment, though, PowerShell is the more mature path, while Python support is still being actively tested and refined.</p>
-<p>One of the stronger design choices here is the local workspace structure. The extension creates a predictable layout under <code>aaccounts</code>, where account metadata, runbook files, cache data, mock templates, generated mocks, and isolated modules all have a clear place. That makes the experience much easier to reason about, especially when you want repeatability across projects and teams.</p>
-<p>It also helps keep local development clean. Generated and local-only artifacts are handled separately, and the extension takes care of adding the right entries to <code>.gitignore</code> so repositories do not get cluttered with workspace-specific runtime files.</p>
-<p>From an Azure connectivity point of view, the extension supports sign-in through VS Code authentication, can fall back to Azure CLI token acquisition when needed, and works across multiple Azure cloud environments. On top of that, it supports the operations you would expect for a serious Automation workflow: create, fetch, upload draft, publish, delete, and trigger test job actions.</p>
-<p>What makes this interesting is not just the feature list on its own, but the shift in mindset behind it.</p>
-<p>Azure Automation teams often end up splitting authoring, testing, debugging, and deployment across disconnected tools and scripts. Azure Runbook Workbench pulls those steps back together into one development loop inside Visual Studio Code, where runbooks can be handled more like source-controlled application code and less like isolated portal artifacts.</p>
-<p>That is a much healthier model for teams that want consistency, local validation, cleaner review workflows, and a clearer path from development to deployment.</p>
-<p>If you spend a lot of time with Azure Automation, this is the kind of tooling that can remove friction in a very practical way. It will likely feel especially familiar to anyone who has wanted runbook development to behave more like the rest of their engineering workflow.</p>
-<p>For me, that is the real value here: not simply making Azure Automation available in VS Code, but making it feel like it finally belongs there.</p>
-<p>It is also still evolving, with some features already in place and others continuing to be developed and refined.</p>
+        <p>I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.</p>
+<p><img src="/imgs/posts/2026/azrworkbench.svg" alt="Azure Runbook Workbench"></p>
+<p>Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.</p>
+<p>That is why I built <strong>Azure Runbook Workbench</strong>.</p>
+<p>It is a Visual Studio Code extension designed to make Azure Automation feel more natural for day-to-day development. The idea is simple: keep runbooks in your local workspace like normal source files, and use Azure as the place you connect to, fetch from, compare with, and deploy back to.</p>
+<p>With it, you can browse Automation Accounts, fetch runbooks, edit them locally, compare changes, upload drafts, publish updates, run them locally with mocked assets, debug them inside VS Code, and even generate starter CI/CD pipelines.</p>
+<p>For me, that is the part that matters most. I wanted Azure Automation development to feel closer to real software engineering and less like constant back and forth with the portal.</p>
+<p>PowerShell is currently the most complete path, and Python support is already there as well for the main runbook workflows, though that side is still being tested and refined.</p>
+<p>The extension is also built around a cleaner workspace structure, so account data, runbooks, mocks, cache, and local modules all have a predictable place. That makes the whole experience easier to manage and repeat across projects.</p>
+<p>If you spend a lot of time working with Azure Automation, my hope is that this helps remove some of the friction that has been there for far too long.</p>
+<p>It is still a work in progress, with some features already in place and others continuing to evolve.</p>
        
         
         
