@@ -22,7 +22,17 @@
 &lt;p&gt;I have been preparing something special.&lt;/p&gt;
 &lt;p&gt;It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p&gt;
 &lt;p&gt;Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment.&lt;/p&gt;
-&lt;p&gt;We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p&gt;</description>
+&lt;p&gt;We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p&gt;
+&lt;p&gt;That gap has bothered me for a long time.&lt;/p&gt;
+&lt;p&gt;I wanted something that treats runbooks like real source code.&lt;/p&gt;
+&lt;p&gt;Something workspace-first.
+Something Azure-connected.
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p&gt;
+&lt;p&gt;That gap has bothered me for a long time.&lt;/p&gt;
+&lt;p&gt;I wanted something that treats runbooks like real source code.&lt;/p&gt;
+&lt;p&gt;Something workspace-first.
+Something Azure-connected.
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p&gt;</description>
     </item>
     
     <item>
