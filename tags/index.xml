@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anniversary</title>
+      <link>/tags/anniversary/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/anniversary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft 365</title>
+      <link>/tags/microsoft-365/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/microsoft-365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SharePoint</title>
+      <link>/tags/sharepoint/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaser</title>
+      <link>/tags/teaser/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/teaser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tribute</title>
+      <link>/tags/tribute/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/tribute/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Automation</title>
       <link>/tags/automation/</link>
@@ -41,15 +86,6 @@
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaser</title>
-      <link>/tags/teaser/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/teaser/</guid>
       <description></description>
     </item>
     
@@ -95,24 +131,6 @@
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/espc25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Microsoft 365</title>
-      <link>/tags/microsoft-365/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/microsoft-365/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SharePoint</title>
-      <link>/tags/sharepoint/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/sharepoint/</guid>
       <description></description>
     </item>
     
