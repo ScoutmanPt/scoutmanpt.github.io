@@ -3,8 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>/tags/adam-harmetz/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/book/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/community/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/espc25/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/microsoft-365/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sharepoint/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</loc>
+    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
@@ -18,22 +45,10 @@
     <loc>/tags/entra-id/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/espc25/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/identity-management/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/microsoft-365/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/scim/</loc>
-    <lastmod>2025-12-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2025-12-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/%EF%B8%8F-book-is-out-mastering-microsoft-365-and-sharepoint-online/</loc>
@@ -91,9 +106,6 @@
     <lastmod>2022-09-20T22:18:17+00:00</lastmod>
   </url><url>
     <loc>/tags/powershell/</loc>
-    <lastmod>2022-09-20T22:18:17+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sharepoint/</loc>
     <lastmod>2022-09-20T22:18:17+00:00</lastmod>
   </url><url>
     <loc>/tags/tip/</loc>
