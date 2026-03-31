@@ -14,7 +14,12 @@
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/%EF%B8%8F-preparing-something-special/</guid>
-      <description>&lt;p&gt;I have been preparing something special.&lt;/p&gt;
+      <description>&lt;div style=&#34;display:flex;flex-wrap:wrap;align-items:flex-start;gap:24px;margin:10px 0 28px 0;&#34;&gt;
+  &lt;div style=&#34;flex:1 1 320px;max-width:420px;&#34;&gt;
+    &lt;img src=&#34;/imgs/posts/2025/special.jpg&#34; alt=&#34;Teaser image for upcoming Azure Automation tooling announcement&#34; style=&#34;width:100%;border-radius:14px;&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex:1 1 320px;min-width:280px;&#34;&gt;
+&lt;p&gt;I have been preparing something special.&lt;/p&gt;
 &lt;p&gt;It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p&gt;
 &lt;p&gt;Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment. We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p&gt;</description>
     </item>
