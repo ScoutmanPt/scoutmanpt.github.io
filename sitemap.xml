@@ -3,37 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>/tags/anniversary/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <loc>/tags/azure/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/community/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/microsoft-365/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/microsoft-mvp/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/mvp-summit/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/sharepoint/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/teaser/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <loc>/%EF%B8%8F-heading-to-mvp-summit-2026/</loc>
+    <lastmod>2026-03-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/anniversary/</loc>
+    <lastmod>2026-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sharepoint/</loc>
+    <lastmod>2026-03-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/tribute/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/%EF%B8%8F-the-sharepoint-25-tribute-i-was-preparing/</loc>
+    <lastmod>2026-03-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/teaser/</loc>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/%EF%B8%8F-sharepoint-turns-25-and-im-preparing-something-new/</loc>
-    <lastmod>2026-01-15T00:00:00+00:00</lastmod>
+    <lastmod>2026-01-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/automation/</loc>
-    <lastmod>2025-12-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/azure/</loc>
     <lastmod>2025-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/powershell/</loc>
@@ -52,9 +67,6 @@
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/book/</loc>
-    <lastmod>2025-12-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/community/</loc>
     <lastmod>2025-12-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/espc25/</loc>

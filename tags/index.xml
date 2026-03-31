@@ -7,49 +7,85 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
     <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Anniversary</title>
-      <link>/tags/anniversary/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <title>Azure</title>
+      <link>/tags/azure/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/anniversary/</guid>
+      <guid>/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community</title>
+      <link>/tags/community/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/community/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft 365</title>
       <link>/tags/microsoft-365/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/microsoft-365/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Microsoft MVP</title>
+      <link>/tags/microsoft-mvp/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/microsoft-mvp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MVP Summit</title>
+      <link>/tags/mvp-summit/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/mvp-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anniversary</title>
+      <link>/tags/anniversary/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
+      <guid>/tags/anniversary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SharePoint</title>
       <link>/tags/sharepoint/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/sharepoint/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Teaser</title>
-      <link>/tags/teaser/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <title>Tribute</title>
+      <link>/tags/tribute/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/teaser/</guid>
+      <guid>/tags/tribute/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tribute</title>
-      <link>/tags/tribute/</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <title>Teaser</title>
+      <link>/tags/teaser/</link>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/tribute/</guid>
+      <guid>/tags/teaser/</guid>
       <description></description>
     </item>
     
@@ -59,15 +95,6 @@
       <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/automation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure</title>
-      <link>/tags/azure/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/azure/</guid>
       <description></description>
     </item>
     
@@ -113,15 +140,6 @@
       <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
       <author>stationsolutions@gmail.com (rodrigo pinto)</author>
       <guid>/tags/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Community</title>
-      <link>/tags/community/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/tags/community/</guid>
       <description></description>
     </item>
     
