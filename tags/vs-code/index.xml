@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>VS Code on Scoutman</title>
-    <link>/tags/vs-code/</link>
-    <description>Recent content in VS Code on Scoutman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vs-code/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code</title>
-      <link>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid>
-      <description>&lt;p&gt;I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/azrworkbench.svg&#34; alt=&#34;Azure Runbook Workbench&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>VS Code on Scoutman</title><link>/tags/vs-code/</link><description>Recent content in VS Code on Scoutman</description><generator>Hugo -- gohugo.io</generator><managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor><webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vs-code/index.xml" rel="self" type="application/rss+xml"/><item><title>⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code</title><link>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid><description>&lt;p>I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/azrworkbench.svg" alt="Azure Runbook Workbench">&lt;/p>
+&lt;p>Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.&lt;/p></description></item></channel></rss>

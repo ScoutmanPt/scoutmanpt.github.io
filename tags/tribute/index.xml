@@ -1,35 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tribute on Scoutman</title>
-    <link>/tags/tribute/</link>
-    <description>Recent content in Tribute on Scoutman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tribute/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️ The SharePoint 25 Tribute reveal</title>
-      <link>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</guid>
-      <description>&lt;p&gt;A little while ago, I wrote that I was starting something new for SharePoint&amp;rsquo;s 25th anniversary.&lt;/p&gt;
-&lt;p&gt;This is the follow-up to that post, and now I can finally say a bit more about it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/tribute.jpg&#34; alt=&#34;SharePoint 25 tribute&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://links.scoutman.pt/sp25-p&#34;&gt;project&lt;/a&gt; is a small website created as a tribute to &lt;strong&gt;25 years of SharePoint&lt;/strong&gt;. It is not meant to be a corporate timeline or a technical deep dive. Instead, it is something more personal: an interactive experience built around &lt;strong&gt;poetry, music, timing, and visuals&lt;/strong&gt;, celebrating the people who have worked with SharePoint across very different eras.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ SharePoint Turns 25, And I’m Preparing Something New</title>
-      <link>/%EF%B8%8F-sharepoint-turns-25-and-im-preparing-something-new/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-sharepoint-turns-25-and-im-preparing-something-new/</guid>
-      <description>&lt;p&gt;SharePoint&amp;rsquo;s 25th anniversary is coming, and that is not a small milestone.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/SP25IsComing.jpg&#34; alt=&#34;SharePoint 25 is coming&#34;&gt;&lt;/p&gt;
-&lt;p&gt;For many of us, SharePoint has been part of our professional journey for years. It has evolved, adapted, expanded, and sometimes surprised us, but through all those changes it has remained one of the most important platforms in the Microsoft ecosystem. It shaped the way organizations collaborate, manage content, build intranets, automate processes, and connect people with information.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tribute on Scoutman</title><link>/tags/tribute/</link><description>Recent content in Tribute on Scoutman</description><generator>Hugo -- gohugo.io</generator><managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor><webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tribute/index.xml" rel="self" type="application/rss+xml"/><item><title>⚜️ The SharePoint 25 Tribute reveal</title><link>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</guid><description>&lt;p>A little while ago, I wrote that I was starting something new for SharePoint&amp;rsquo;s 25th anniversary.&lt;/p>
+&lt;p>This is the follow-up to that post, and now I can finally say a bit more about it.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/tribute.jpg" alt="SharePoint 25 tribute">&lt;/p>
+&lt;p>The &lt;a href="https://links.scoutman.pt/sp25-p">project&lt;/a> is a small website created as a tribute to &lt;strong>25 years of SharePoint&lt;/strong>. It is not meant to be a corporate timeline or a technical deep dive. Instead, it is something more personal: an interactive experience built around &lt;strong>poetry, music, timing, and visuals&lt;/strong>, celebrating the people who have worked with SharePoint across very different eras.&lt;/p></description></item><item><title>⚜️ SharePoint Turns 25, And I’m Cooking Something New</title><link>/%EF%B8%8F-sharepoint-turns-25-and-im-cooking-something-new/</link><pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-sharepoint-turns-25-and-im-cooking-something-new/</guid><description>&lt;p>SharePoint&amp;rsquo;s 25th anniversary is coming, and that is not a small milestone.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/SP25IsComing.jpg" alt="SharePoint 25 is coming">&lt;/p>
+&lt;p>For many of us, SharePoint has been part of our professional journey for years. It has evolved, adapted, expanded, and sometimes surprised us, but through all those changes it has remained one of the most important platforms in the Microsoft ecosystem. It shaped the way organizations collaborate, manage content, build intranets, automate processes, and connect people with information.&lt;/p></description></item></channel></rss>

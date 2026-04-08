@@ -1,236 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Scoutman</title>
-    <link>/</link>
-    <description>Recent content on Scoutman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️ Back From MVP Summit 2026</title>
-      <link>/%EF%B8%8F-back-from-mvp-summit-2026/</link>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-back-from-mvp-summit-2026/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/backfromthesummit.jpg&#34; alt=&#34;Back from the Summit&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I’m back from &lt;strong&gt;MVP Summit 2026&lt;/strong&gt;, and as usual, it was one of those weeks that leaves your head full, energy levels weirdly high, and coffee intake slightly more aggressive than normal.&lt;/p&gt;
-&lt;p&gt;What stays with me most after these events is not just the technology itself: it is the people,the conversations.. the reconnecting.&lt;/p&gt;
-&lt;p&gt;The random hallway chats that somehow turn into deep discussions about products, customers, direction, pain points, ideas, and where everything may be heading next. `&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code</title>
-      <link>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</link>
-      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid>
-      <description>&lt;p&gt;I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/azrworkbench.svg&#34; alt=&#34;Azure Runbook Workbench&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ Heading To MVP Summit 2026</title>
-      <link>/%EF%B8%8F-heading-to-mvp-summit-2026/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-heading-to-mvp-summit-2026/</guid>
-      <description>&lt;p&gt;I’m heading to &lt;strong&gt;MVP Summit 2026&lt;/strong&gt;, and once more it already looks promising.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/headingtomvsumit2026.jpg&#34; alt=&#34;Heading to MVP Summit 2026&#34;&gt;&lt;/p&gt;
-&lt;p&gt;There is always something special about this event.&lt;/p&gt;
-&lt;p&gt;It is not just the sessions, the announcements, or the technology itself. It is the chance to be around people who care deeply about the products, the platforms, friends, and the work happening behind the scenes.&lt;/p&gt;
-&lt;p&gt;Every year, MVP Summit brings together a rare mix of energy, curiosity, expertise, and honest conversations, and that combination is hard to beat.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ The SharePoint 25 Tribute reveal</title>
-      <link>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</link>
-      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</guid>
-      <description>&lt;p&gt;A little while ago, I wrote that I was starting something new for SharePoint&amp;rsquo;s 25th anniversary.&lt;/p&gt;
-&lt;p&gt;This is the follow-up to that post, and now I can finally say a bit more about it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/tribute.jpg&#34; alt=&#34;SharePoint 25 tribute&#34;&gt;&lt;/p&gt;
-&lt;p&gt;The &lt;a href=&#34;https://links.scoutman.pt/sp25-p&#34;&gt;project&lt;/a&gt; is a small website created as a tribute to &lt;strong&gt;25 years of SharePoint&lt;/strong&gt;. It is not meant to be a corporate timeline or a technical deep dive. Instead, it is something more personal: an interactive experience built around &lt;strong&gt;poetry, music, timing, and visuals&lt;/strong&gt;, celebrating the people who have worked with SharePoint across very different eras.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ SharePoint Turns 25, And I’m Preparing Something New</title>
-      <link>/%EF%B8%8F-sharepoint-turns-25-and-im-preparing-something-new/</link>
-      <pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-sharepoint-turns-25-and-im-preparing-something-new/</guid>
-      <description>&lt;p&gt;SharePoint&amp;rsquo;s 25th anniversary is coming, and that is not a small milestone.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/SP25IsComing.jpg&#34; alt=&#34;SharePoint 25 is coming&#34;&gt;&lt;/p&gt;
-&lt;p&gt;For many of us, SharePoint has been part of our professional journey for years. It has evolved, adapted, expanded, and sometimes surprised us, but through all those changes it has remained one of the most important platforms in the Microsoft ecosystem. It shaped the way organizations collaborate, manage content, build intranets, automate processes, and connect people with information.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ Preparing Something Special</title>
-      <link>/%EF%B8%8F-preparing-something-special/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-preparing-something-special/</guid>
-      <description>&lt;div style=&#34;display:flex;flex-wrap:wrap;align-items:flex-start;gap:24px;margin:10px 0 28px 0;&#34;&gt;
-  &lt;div style=&#34;flex:1 1 320px;max-width:420px;&#34;&gt;
-    &lt;img src=&#34;/imgs/posts/2025/special.jpg&#34; alt=&#34;Teaser image for upcoming Azure Automation tooling announcement&#34; style=&#34;width:100%;border-radius:14px;&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div style=&#34;flex:1 1 320px;min-width:280px;&#34;&gt;
-&lt;p&gt;I have been preparing something special.&lt;/p&gt;
-&lt;p&gt;It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p&gt;
-&lt;p&gt;Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment.&lt;/p&gt;
-&lt;p&gt;We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p&gt;
-&lt;p&gt;That gap has bothered me for a long time.&lt;/p&gt;
-&lt;p&gt;I wanted something that treats runbooks like real source code.&lt;/p&gt;
-&lt;p&gt;Something workspace-first.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Scoutman</title><link>/</link><description>Recent content on Scoutman</description><generator>Hugo -- gohugo.io</generator><managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor><webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>⚜️ Back From MVP Summit 2026</title><link>/%EF%B8%8F-back-from-mvp-summit-2026/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-back-from-mvp-summit-2026/</guid><description>&lt;p>&lt;img src="/imgs/posts/2026/backfromthesummit.jpg" alt="Back from the Summit">&lt;/p>
+&lt;p>I’m back from &lt;strong>MVP Summit 2026&lt;/strong>, and as usual, it was one of those weeks that leaves your head full, energy levels weirdly high, and coffee intake slightly more aggressive than normal.&lt;/p>
+&lt;p>What stays with me most after these events is not just the technology itself: it is the people,the conversations.. the reconnecting.&lt;/p>
+&lt;p>The random hallway chats that somehow turn into deep discussions about products, customers, direction, pain points, ideas, and where everything may be heading next.&lt;/p></description></item><item><title>⚜️ Azure Runbook Workbench: A Better Way To Build Azure Automation Runbooks In VS Code</title><link>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-azure-runbook-workbench-a-better-way-to-build-azure-automation-runbooks-in-vs-code/</guid><description>&lt;p>I have worked with Azure Automation since the early days, and one thing kept bothering me: the development experience never really felt right.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/azrworkbench.svg" alt="Azure Runbook Workbench">&lt;/p>
+&lt;p>Too much of the process ended up split between the Azure portal, local scripts, manual testing, and deployment steps living somewhere else. It worked, but it rarely felt like a proper development workflow.&lt;/p></description></item><item><title>⚜️ Heading To MVP Summit 2026</title><link>/%EF%B8%8F-heading-to-mvp-summit-2026/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-heading-to-mvp-summit-2026/</guid><description>&lt;p>I’m heading to &lt;strong>MVP Summit 2026&lt;/strong>, and once more it already looks promising.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/headingtomvsumit2026.jpg" alt="Heading to MVP Summit 2026">&lt;/p>
+&lt;p>There is always something special about this event.&lt;/p>
+&lt;p>It is not just the sessions, the announcements, or the technology itself. It is the chance to be around people who care deeply about the products, the platforms, friends, and the work happening behind the scenes.&lt;/p>
+&lt;p>Every year, MVP Summit brings together a rare mix of energy, curiosity, expertise, and honest conversations, and that combination is hard to beat.&lt;/p></description></item><item><title>⚜️ The SharePoint 25 Tribute reveal</title><link>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</link><pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-the-sharepoint-25-tribute-reveal/</guid><description>&lt;p>A little while ago, I wrote that I was starting something new for SharePoint&amp;rsquo;s 25th anniversary.&lt;/p>
+&lt;p>This is the follow-up to that post, and now I can finally say a bit more about it.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/tribute.jpg" alt="SharePoint 25 tribute">&lt;/p>
+&lt;p>The &lt;a href="https://links.scoutman.pt/sp25-p">project&lt;/a> is a small website created as a tribute to &lt;strong>25 years of SharePoint&lt;/strong>. It is not meant to be a corporate timeline or a technical deep dive. Instead, it is something more personal: an interactive experience built around &lt;strong>poetry, music, timing, and visuals&lt;/strong>, celebrating the people who have worked with SharePoint across very different eras.&lt;/p></description></item><item><title>⚜️ SharePoint Turns 25, And I’m Cooking Something New</title><link>/%EF%B8%8F-sharepoint-turns-25-and-im-cooking-something-new/</link><pubDate>Mon, 19 Jan 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-sharepoint-turns-25-and-im-cooking-something-new/</guid><description>&lt;p>SharePoint&amp;rsquo;s 25th anniversary is coming, and that is not a small milestone.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/SP25IsComing.jpg" alt="SharePoint 25 is coming">&lt;/p>
+&lt;p>For many of us, SharePoint has been part of our professional journey for years. It has evolved, adapted, expanded, and sometimes surprised us, but through all those changes it has remained one of the most important platforms in the Microsoft ecosystem. It shaped the way organizations collaborate, manage content, build intranets, automate processes, and connect people with information.&lt;/p></description></item><item><title>⚜️ Preparing Something Special</title><link>/%EF%B8%8F-preparing-something-special/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-preparing-something-special/</guid><description>&lt;div style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:24px;margin:10px 0 28px 0;">
+&lt;div style="flex:1 1 320px;max-width:420px;">
+&lt;img src="/imgs/posts/2025/special.jpg" alt="Teaser image for upcoming Azure Automation tooling announcement" style="width:100%;border-radius:14px;" />
+&lt;/div>
+&lt;div style="flex:1 1 320px;min-width:280px;">
+&lt;p>I have been preparing something special.&lt;/p>
+&lt;p>It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p>
+&lt;p>Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment.&lt;/p>
+&lt;p>We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p>
+&lt;p>That gap has bothered me for a long time.&lt;/p>
+&lt;p>I wanted something that treats runbooks like real source code.&lt;/p>
+&lt;p>Something workspace-first.
 Something Azure-connected.
-Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p&gt;
-&lt;p&gt;That gap has bothered me for a long time.&lt;/p&gt;
-&lt;p&gt;I wanted something that treats runbooks like real source code.&lt;/p&gt;
-&lt;p&gt;Something workspace-first.
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p>
+&lt;p>That gap has bothered me for a long time.&lt;/p>
+&lt;p>I wanted something that treats runbooks like real source code.&lt;/p>
+&lt;p>Something workspace-first.
 Something Azure-connected.
-Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ A Special ESPC25 Moment: Handing My Book to Adam Harmetz</title>
-      <link>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</guid>
-      <description>&lt;p&gt;Still buzzing after ESPC, I was lucky enough to hand my book &lt;strong&gt;Mastering Microsoft 365 and SharePoint Online&lt;/strong&gt; to &lt;strong&gt;Adam Harmetz&lt;/strong&gt;, VP of Product at Microsoft.&lt;/p&gt;
-&lt;p&gt;It was one of those small moments that somehow carries a lot of meaning.&lt;/p&gt;
-&lt;p&gt;When we spend years working with a platform, building on top of it, solving problems around it, and watching it evolve release after release, we also end up following the people helping shape that journey. Adam has been part of SharePoint&amp;rsquo;s evolution for years, helping guide its transformation with vision, clarity, and a remarkable ability to balance innovation with real-world needs.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title> ⚜️  Speaking at ESPC25: Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure</title>
-      <link>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</guid>
-      <description>&lt;p&gt;ESPC25 in Dublin was one of those events that reminds us why community conferences still matter so much.&lt;/p&gt;
-&lt;p&gt;From &lt;strong&gt;December 1 to December 4, 2025&lt;/strong&gt;, the European SharePoint, Microsoft 365 &amp;amp; AI Conference brought together a lot of great people, great conversations, and a lot of practical knowledge sharing. I was very happy to be part of it with my session &lt;strong&gt;Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The session took place on &lt;strong&gt;Wednesday, December 3, 2025&lt;/strong&gt;, in the IT Professional track, and focused on a challenge that many teams know all too well: how to keep identity provisioning and lifecycle management under control when multiple tenants are involved.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title> ⚜️  Book is Out: Mastering Microsoft 365 and SharePoint Online</title>
-      <link>/%EF%B8%8F-book-is-out-mastering-microsoft-365-and-sharepoint-online/</link>
-      <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-book-is-out-mastering-microsoft-365-and-sharepoint-online/</guid>
-      <description>It is said, &amp;ldquo;In life, you should plant a tree, father a child, and write a book.&amp;rdquo; Well, two down &amp;hellip; and today&amp;hellip;
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p></description></item><item><title>⚜️ A Special ESPC25 Moment: Handing My Book to Adam Harmetz</title><link>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</link><pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</guid><description>&lt;p>Still buzzing after ESPC, I was lucky enough to hand my book &lt;strong>Mastering Microsoft 365 and SharePoint Online&lt;/strong> to &lt;a href="https://www.linkedin.com/in/adam-harmetz/">&lt;strong>Adam Harmetz&lt;/strong>&lt;/a>, VP of Product at Microsoft.&lt;/p>
+&lt;p>It was one of those small moments that somehow carries a lot of meaning.&lt;/p>
+&lt;p>When we spend years working with a platform, building on top of it, solving problems around it, and watching it evolve release after release, we also end up following the people helping shape that journey. Adam has been part of SharePoint&amp;rsquo;s evolution for years, helping guide its transformation with vision, clarity, and a remarkable ability to balance innovation with real-world needs.&lt;/p></description></item><item><title> ⚜️ Speaking at ESPC25: Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure</title><link>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</guid><description>&lt;p>ESPC25 in Dublin was one of those events that reminds us why community conferences still matter so much.&lt;/p>
+&lt;p>From &lt;strong>December 1 to December 4, 2025&lt;/strong>, the European SharePoint, Microsoft 365 &amp;amp; AI Conference brought together a lot of great people, great conversations, and a lot of practical knowledge sharing. I was very happy to be part of it with my session &lt;strong>Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure&lt;/strong>.&lt;/p>
+&lt;p>The session took place on &lt;strong>Wednesday, December 3, 2025&lt;/strong>, in the IT Professional track, and focused on a challenge that many teams know all too well: how to keep identity provisioning and lifecycle management under control when multiple tenants are involved.&lt;/p></description></item><item><title> ⚜️ Book is Out: Mastering Microsoft 365 and SharePoint Online</title><link>/%EF%B8%8F-book-is-out-mastering-microsoft-365-and-sharepoint-online/</link><pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-book-is-out-mastering-microsoft-365-and-sharepoint-online/</guid><description>It is said, &amp;ldquo;In life, you should plant a tree, father a child, and write a book.&amp;rdquo; Well, two down &amp;hellip; and today&amp;hellip;
 &amp;hellip;I rope in the third with the release of the book Mastering Microsoft 365 and SharePoint Online. https://lnkd.in/dvKpWXxt Oorah!
-Huge thanks to the wifey, my kids, and my father for their unwavering support&amp;hellip; and patience 🤠, and to everyone who, in any way, inspired making this a reality: this one’s for y&amp;rsquo;all!</description>
-    </item>
-    
-    <item>
-      <title>⚜️ Episode III of III - Setup your SPFx development in WSL2 ... with PnPWsl2 !</title>
-      <link>/%EF%B8%8F-episode-iii-of-iii-setup-your-spfx-development-in-wsl2-...-with-pnpwsl2/</link>
-      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-episode-iii-of-iii-setup-your-spfx-development-in-wsl2-...-with-pnpwsl2/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240223/landscape3.png&#34; alt=&#34;newsupdate&#34;&gt;&lt;br&gt;
-&lt;strong&gt;Third&lt;/strong&gt; of a third-part journey  is out !&lt;/p&gt;
-&lt;p&gt;The second episode, was around &lt;strong&gt;WSL2&lt;/strong&gt; (Windows Subsystem for Linux), &lt;strong&gt;THE tool&lt;/strong&gt; you definitely need to have in your toolbox .&lt;/p&gt;
-&lt;p&gt;In this next one, we will dive into what in what is about to become indispensable to support your WSL2 journey &amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️  Episode II of III - Revolutionize your tech workflow with a single command</title>
-      <link>/%EF%B8%8F-episode-ii-of-iii-revolutionize-your-tech-workflow-with-a-single-command/</link>
-      <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-episode-ii-of-iii-revolutionize-your-tech-workflow-with-a-single-command/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240223/landscape2.png&#34; alt=&#34;onecommand&#34;&gt;&lt;/p&gt;
-&lt;p&gt;This is the second of a third-part journey  : the first episode, was around awareness of the crucial baselines to get started to drive technical projects\teams.&lt;/p&gt;
-&lt;p&gt;In this next one we will dive into what is now become indispensable for many in the tech community: its opening up new possibilities, blurring the lines between different computing environments, and providing a seamless bridge between what was once a very distinct and separate world.&lt;/p&gt;
-&lt;p&gt;Step into &amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️  Episode I of III - A Technical Baseline</title>
-      <link>/%EF%B8%8F-episode-i-of-iii-a-technical-baseline/</link>
-      <pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-episode-i-of-iii-a-technical-baseline/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240223/landscape.png&#34; alt=&#34;newsupdate&#34;&gt;&lt;br&gt;
-Get your curiosity caps on, we&amp;rsquo;re about to embark on a third-part journey (the first one, more to follow) through something that will change the path of your technical projects, &amp;hellip; or at least, I&amp;rsquo;m hoping it will (for better ! not worse 🤠).&lt;/p&gt;
-&lt;p&gt;So it begins &amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>📰  News Update ! Stay tuned, some awesomeness is coming ...</title>
-      <link>/news-update-stay-tuned-some-awesomeness-is-coming-.../</link>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/news-update-stay-tuned-some-awesomeness-is-coming-.../</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/20240201/newsupdate.png&#34; alt=&#34;newsupdate&#34;&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;News Flash !&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;You might have noticed the blog&amp;rsquo;s been on a little siesta,  it&amp;rsquo;s all been for a good cause &amp;hellip;&lt;br&gt;
-Over the past year, I&amp;rsquo;ve been immersed in a couple of exciting side projects that have been both challenging and incredibly fulfilling&amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>🔐  Managed Identity rocks with PnP.PowerShell !</title>
-      <link>/managed-identity-rocks-with-pnp.powershell/</link>
-      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/managed-identity-rocks-with-pnp.powershell/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/mngid.png&#34; alt=&#34;mngid&#34;&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;p&gt;&lt;strong&gt;Managed identities&lt;/strong&gt; provide an identity for applications to use when connecting to resources that support Azure AD authentication.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Scoutman&#39;s Swiss Army Knife</title>
-      <link>/scoutmans-swiss-army-knife/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/scoutmans-swiss-army-knife/</guid>
-      <description>&lt;img src=&#34;/imgs/posts/sak/about.jpg&#34; width=&#34;400&#34; style=&#34;float:left;margin-right:20px&#34;/&gt;
-&lt;p&gt;The &lt;a href=&#34;https://github.com/ScoutmanPt/Swiss.Army.Knife&#34;&gt;&lt;strong&gt;Scoutmans Swiss Army Knife&lt;/strong&gt;&lt;/a&gt;   is a Windows Desktop app that lives happy on the Windows systray.&lt;br&gt;
-&lt;br&gt;
-It is a Windows Forms &amp;ldquo;ShortCut&amp;rdquo; builder tool where we can address direct links to files, folders, scripts (PNP Script Samples also!) and browser Profiles.  &lt;br/&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>😰 The case of the missing field ...</title>
-      <link>/the-case-of-the-missing-field-.../</link>
-      <pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/the-case-of-the-missing-field-.../</guid>
-      <description>&lt;br&gt;
-&lt;p&gt;Its been a while, since I actually had to deal with on-premises SharePoint Farm &amp;hellip; although im spent so many years with the platform, im still amazed on how you keep learning &amp;hellip; with &amp;ldquo;legacy&amp;rdquo; systems. 😁&lt;/p&gt;
-&lt;p&gt;Recently, I&amp;rsquo;ve came across a strange behavior in a SharePoint 2016 farm :  modified dates for sites, lists, libraries  are  more recent than expected when no updates were made by users &amp;hellip;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>🚀... and the first post is out !</title>
-      <link>/...-and-the-first-post-is-out/</link>
-      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/...-and-the-first-post-is-out/</guid>
-      <description>&lt;!-- {{ .Title }}--&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/fistpost.jpg&#34; alt=&#34;firstpost&#34;&gt;&lt;/p&gt;
-&lt;br&gt;
-Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/page/about/</link>
-      <pubDate>Tue, 08 Feb 2022 23:55:04 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/page/about/</guid>
-      <description>The name is Rodrigo Pinto, I&amp;rsquo;m Enterprise Solution Architect with over than 20 years of experience and a Microsoft Office 365 Apps and Services MVP since 2011.
+Huge thanks to the wifey, my kids, and my father for their unwavering support&amp;hellip; and patience 🤠, and to everyone who, in any way, inspired making this a reality: this one’s for y&amp;rsquo;all!</description></item><item><title>⚜️ Episode III of III - Setup your SPFx development in WSL2 ... with PnPWsl2 !</title><link>/%EF%B8%8F-episode-iii-of-iii-setup-your-spfx-development-in-wsl2-...-with-pnpwsl2/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-episode-iii-of-iii-setup-your-spfx-development-in-wsl2-...-with-pnpwsl2/</guid><description>&lt;p>&lt;img src="/imgs/posts/20240223/landscape3.png" alt="newsupdate">&lt;br>
+&lt;strong>Third&lt;/strong> of a third-part journey is out !&lt;/p>
+&lt;p>The second episode, was around &lt;strong>WSL2&lt;/strong> (Windows Subsystem for Linux), &lt;strong>THE tool&lt;/strong> you definitely need to have in your toolbox .&lt;/p>
+&lt;p>In this next one, we will dive into what in what is about to become indispensable to support your WSL2 journey &amp;hellip;&lt;/p></description></item><item><title>⚜️ Episode II of III - Revolutionize your tech workflow with a single command</title><link>/%EF%B8%8F-episode-ii-of-iii-revolutionize-your-tech-workflow-with-a-single-command/</link><pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-episode-ii-of-iii-revolutionize-your-tech-workflow-with-a-single-command/</guid><description>&lt;p>&lt;img src="/imgs/posts/20240223/landscape2.png" alt="onecommand">&lt;/p>
+&lt;p>This is the second of a third-part journey : the first episode, was around awareness of the crucial baselines to get started to drive technical projects\teams.&lt;/p>
+&lt;p>In this next one we will dive into what is now become indispensable for many in the tech community: its opening up new possibilities, blurring the lines between different computing environments, and providing a seamless bridge between what was once a very distinct and separate world.&lt;/p>
+&lt;p>Step into &amp;hellip;&lt;/p></description></item><item><title>⚜️ Episode I of III - A Technical Baseline</title><link>/%EF%B8%8F-episode-i-of-iii-a-technical-baseline/</link><pubDate>Mon, 26 Feb 2024 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-episode-i-of-iii-a-technical-baseline/</guid><description>&lt;p>&lt;img src="/imgs/posts/20240223/landscape.png" alt="newsupdate">&lt;br>
+Get your curiosity caps on, we&amp;rsquo;re about to embark on a third-part journey (the first one, more to follow) through something that will change the path of your technical projects, &amp;hellip; or at least, I&amp;rsquo;m hoping it will (for better ! not worse 🤠).&lt;/p>
+&lt;p>So it begins &amp;hellip;&lt;/p></description></item><item><title>📰 News Update ! Stay tuned, some awesomeness is coming ...</title><link>/news-update-stay-tuned-some-awesomeness-is-coming-.../</link><pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/news-update-stay-tuned-some-awesomeness-is-coming-.../</guid><description>&lt;p>&lt;img src="/imgs/posts/20240201/newsupdate.png" alt="newsupdate">&lt;/p>
+&lt;br>
+&lt;p>&lt;strong>News Flash !&lt;/strong>&lt;/p>
+&lt;p>You might have noticed the blog&amp;rsquo;s been on a little siesta, it&amp;rsquo;s all been for a good cause &amp;hellip;&lt;br>
+Over the past year, I&amp;rsquo;ve been immersed in a couple of exciting side projects that have been both challenging and incredibly fulfilling&amp;hellip;&lt;/p></description></item><item><title>🔐 Managed Identity rocks with PnP.PowerShell !</title><link>/managed-identity-rocks-with-pnp.powershell/</link><pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/managed-identity-rocks-with-pnp.powershell/</guid><description>&lt;p>&lt;img src="/imgs/posts/mngid.png" alt="mngid">&lt;/p>
+&lt;br>
+&lt;p>&lt;strong>Managed identities&lt;/strong> provide an identity for applications to use when connecting to resources that support Azure AD authentication.&lt;/p></description></item><item><title>Scoutman's Swiss Army Knife</title><link>/scoutmans-swiss-army-knife/</link><pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/scoutmans-swiss-army-knife/</guid><description>&lt;img src="/imgs/posts/sak/about.jpg" width="400" style="float:left;margin-right:20px"/>
+&lt;p>The &lt;a href="https://github.com/ScoutmanPt/Swiss.Army.Knife">&lt;strong>Scoutmans Swiss Army Knife&lt;/strong>&lt;/a> is a Windows Desktop app that lives happy on the Windows systray.&lt;br>
+&lt;br>
+It is a Windows Forms &amp;ldquo;ShortCut&amp;rdquo; builder tool where we can address direct links to files, folders, scripts (PNP Script Samples also!) and browser Profiles. &lt;br/>&lt;/p></description></item><item><title>😰 The case of the missing field ...</title><link>/the-case-of-the-missing-field-.../</link><pubDate>Thu, 03 Mar 2022 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/the-case-of-the-missing-field-.../</guid><description>&lt;br>
+&lt;p>Its been a while, since I actually had to deal with on-premises SharePoint Farm &amp;hellip; although im spent so many years with the platform, im still amazed on how you keep learning &amp;hellip; with &amp;ldquo;legacy&amp;rdquo; systems. 😁&lt;/p>
+&lt;p>Recently, I&amp;rsquo;ve came across a strange behavior in a SharePoint 2016 farm : modified dates for sites, lists, libraries are more recent than expected when no updates were made by users &amp;hellip;&lt;/p></description></item><item><title>🚀... and the first post is out !</title><link>/...-and-the-first-post-is-out/</link><pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/...-and-the-first-post-is-out/</guid><description>&lt;!-- {{ .Title }}-->
+&lt;p>&lt;img src="/imgs/fistpost.jpg" alt="firstpost">&lt;/p>
+&lt;br>
+Been in SharePoint world since 2003, and within community efforts since 2009, I was always keen to share knowledge, tips and tricks during presential sessions in conferences or usergroup meetings ...</description></item><item><title>About me</title><link>/page/about/</link><pubDate>Tue, 08 Feb 2022 23:55:04 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/page/about/</guid><description>The name is Rodrigo Pinto, I&amp;rsquo;m Enterprise Solution Architect with over than 20 years of experience and a Microsoft Office 365 Apps and Services MVP since 2011.
 Currently living near Lisbon, Portugal, im focused on architecture, development and technically leading teams in Microsoft 365 and Azure.
-Been blessed to live eXtraordinary times, meeting and mingle with full blown hearted people, I usually spent my free time with the wifey (she definitely 🤘🏻) &amp;amp; kids, coding, playing guitar🎸, marvel comics (lots of them), movies, travelling and organizing community events.</description>
-    </item>
-    
-  </channel>
-</rss>
+Been blessed to live eXtraordinary times, meeting and mingle with full blown hearted people, I usually spent my free time with the wifey (she definitely 🤘🏻) &amp;amp; kids, coding, playing guitar🎸, marvel comics (lots of them), movies, travelling and organizing community events.</description></item></channel></rss>

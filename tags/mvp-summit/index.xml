@@ -1,37 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>MVP Summit on Scoutman</title>
-    <link>/tags/mvp-summit/</link>
-    <description>Recent content in MVP Summit on Scoutman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mvp-summit/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️ Back From MVP Summit 2026</title>
-      <link>/%EF%B8%8F-back-from-mvp-summit-2026/</link>
-      <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-back-from-mvp-summit-2026/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/backfromthesummit.jpg&#34; alt=&#34;Back from the Summit&#34;&gt;&lt;/p&gt;
-&lt;p&gt;I’m back from &lt;strong&gt;MVP Summit 2026&lt;/strong&gt;, and as usual, it was one of those weeks that leaves your head full, energy levels weirdly high, and coffee intake slightly more aggressive than normal.&lt;/p&gt;
-&lt;p&gt;What stays with me most after these events is not just the technology itself: it is the people,the conversations.. the reconnecting.&lt;/p&gt;
-&lt;p&gt;The random hallway chats that somehow turn into deep discussions about products, customers, direction, pain points, ideas, and where everything may be heading next. `&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>⚜️ Heading To MVP Summit 2026</title>
-      <link>/%EF%B8%8F-heading-to-mvp-summit-2026/</link>
-      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-heading-to-mvp-summit-2026/</guid>
-      <description>&lt;p&gt;I’m heading to &lt;strong&gt;MVP Summit 2026&lt;/strong&gt;, and once more it already looks promising.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;/imgs/posts/2026/headingtomvsumit2026.jpg&#34; alt=&#34;Heading to MVP Summit 2026&#34;&gt;&lt;/p&gt;
-&lt;p&gt;There is always something special about this event.&lt;/p&gt;
-&lt;p&gt;It is not just the sessions, the announcements, or the technology itself. It is the chance to be around people who care deeply about the products, the platforms, friends, and the work happening behind the scenes.&lt;/p&gt;
-&lt;p&gt;Every year, MVP Summit brings together a rare mix of energy, curiosity, expertise, and honest conversations, and that combination is hard to beat.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>MVP Summit on Scoutman</title><link>/tags/mvp-summit/</link><description>Recent content in MVP Summit on Scoutman</description><generator>Hugo -- gohugo.io</generator><managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor><webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><lastBuildDate>Thu, 02 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mvp-summit/index.xml" rel="self" type="application/rss+xml"/><item><title>⚜️ Back From MVP Summit 2026</title><link>/%EF%B8%8F-back-from-mvp-summit-2026/</link><pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-back-from-mvp-summit-2026/</guid><description>&lt;p>&lt;img src="/imgs/posts/2026/backfromthesummit.jpg" alt="Back from the Summit">&lt;/p>
+&lt;p>I’m back from &lt;strong>MVP Summit 2026&lt;/strong>, and as usual, it was one of those weeks that leaves your head full, energy levels weirdly high, and coffee intake slightly more aggressive than normal.&lt;/p>
+&lt;p>What stays with me most after these events is not just the technology itself: it is the people,the conversations.. the reconnecting.&lt;/p>
+&lt;p>The random hallway chats that somehow turn into deep discussions about products, customers, direction, pain points, ideas, and where everything may be heading next.&lt;/p></description></item><item><title>⚜️ Heading To MVP Summit 2026</title><link>/%EF%B8%8F-heading-to-mvp-summit-2026/</link><pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-heading-to-mvp-summit-2026/</guid><description>&lt;p>I’m heading to &lt;strong>MVP Summit 2026&lt;/strong>, and once more it already looks promising.&lt;/p>
+&lt;p>&lt;img src="/imgs/posts/2026/headingtomvsumit2026.jpg" alt="Heading to MVP Summit 2026">&lt;/p>
+&lt;p>There is always something special about this event.&lt;/p>
+&lt;p>It is not just the sessions, the announcements, or the technology itself. It is the chance to be around people who care deeply about the products, the platforms, friends, and the work happening behind the scenes.&lt;/p>
+&lt;p>Every year, MVP Summit brings together a rare mix of energy, curiosity, expertise, and honest conversations, and that combination is hard to beat.&lt;/p></description></item></channel></rss>

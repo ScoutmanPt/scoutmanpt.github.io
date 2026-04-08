@@ -1,39 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Visual Studio Code on Scoutman</title>
-    <link>/tags/visual-studio-code/</link>
-    <description>Recent content in Visual Studio Code on Scoutman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/visual-studio-code/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️ Preparing Something Special</title>
-      <link>/%EF%B8%8F-preparing-something-special/</link>
-      <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-preparing-something-special/</guid>
-      <description>&lt;div style=&#34;display:flex;flex-wrap:wrap;align-items:flex-start;gap:24px;margin:10px 0 28px 0;&#34;&gt;
-  &lt;div style=&#34;flex:1 1 320px;max-width:420px;&#34;&gt;
-    &lt;img src=&#34;/imgs/posts/2025/special.jpg&#34; alt=&#34;Teaser image for upcoming Azure Automation tooling announcement&#34; style=&#34;width:100%;border-radius:14px;&#34; /&gt;
-  &lt;/div&gt;
-  &lt;div style=&#34;flex:1 1 320px;min-width:280px;&#34;&gt;
-&lt;p&gt;I have been preparing something special.&lt;/p&gt;
-&lt;p&gt;It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p&gt;
-&lt;p&gt;Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment.&lt;/p&gt;
-&lt;p&gt;We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p&gt;
-&lt;p&gt;That gap has bothered me for a long time.&lt;/p&gt;
-&lt;p&gt;I wanted something that treats runbooks like real source code.&lt;/p&gt;
-&lt;p&gt;Something workspace-first.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Visual Studio Code on Scoutman</title><link>/tags/visual-studio-code/</link><description>Recent content in Visual Studio Code on Scoutman</description><generator>Hugo -- gohugo.io</generator><managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor><webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><lastBuildDate>Mon, 15 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/visual-studio-code/index.xml" rel="self" type="application/rss+xml"/><item><title>⚜️ Preparing Something Special</title><link>/%EF%B8%8F-preparing-something-special/</link><pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-preparing-something-special/</guid><description>&lt;div style="display:flex;flex-wrap:wrap;align-items:flex-start;gap:24px;margin:10px 0 28px 0;">
+&lt;div style="flex:1 1 320px;max-width:420px;">
+&lt;img src="/imgs/posts/2025/special.jpg" alt="Teaser image for upcoming Azure Automation tooling announcement" style="width:100%;border-radius:14px;" />
+&lt;/div>
+&lt;div style="flex:1 1 320px;min-width:280px;">
+&lt;p>I have been preparing something special.&lt;/p>
+&lt;p>It has been quietly taking shape for a while now, and it comes from a frustration I have had for years.&lt;/p>
+&lt;p>Anyone who has spent serious time with Azure Automation knows the story: too much back and forth, too much portal dependency, too much friction between authoring, testing, debugging, and deployment.&lt;/p>
+&lt;p>We end up stitching together folders, scripts, manual checks, and half-working approaches when what we really want is a proper development experience.&lt;/p>
+&lt;p>That gap has bothered me for a long time.&lt;/p>
+&lt;p>I wanted something that treats runbooks like real source code.&lt;/p>
+&lt;p>Something workspace-first.
 Something Azure-connected.
-Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p&gt;
-&lt;p&gt;That gap has bothered me for a long time.&lt;/p&gt;
-&lt;p&gt;I wanted something that treats runbooks like real source code.&lt;/p&gt;
-&lt;p&gt;Something workspace-first.
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p>
+&lt;p>That gap has bothered me for a long time.&lt;/p>
+&lt;p>I wanted something that treats runbooks like real source code.&lt;/p>
+&lt;p>Something workspace-first.
 Something Azure-connected.
-Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+Something that feels closer to modern software engineering and much less like trial and error in a browser tab.&lt;/p></description></item></channel></rss>

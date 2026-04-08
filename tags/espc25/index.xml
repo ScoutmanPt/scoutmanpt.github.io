@@ -1,34 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>ESPC25 on Scoutman</title>
-    <link>/tags/espc25/</link>
-    <description>Recent content in ESPC25 on Scoutman</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor>
-    <webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster>
-    <lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/espc25/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>⚜️ A Special ESPC25 Moment: Handing My Book to Adam Harmetz</title>
-      <link>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</link>
-      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</guid>
-      <description>&lt;p&gt;Still buzzing after ESPC, I was lucky enough to hand my book &lt;strong&gt;Mastering Microsoft 365 and SharePoint Online&lt;/strong&gt; to &lt;strong&gt;Adam Harmetz&lt;/strong&gt;, VP of Product at Microsoft.&lt;/p&gt;
-&lt;p&gt;It was one of those small moments that somehow carries a lot of meaning.&lt;/p&gt;
-&lt;p&gt;When we spend years working with a platform, building on top of it, solving problems around it, and watching it evolve release after release, we also end up following the people helping shape that journey. Adam has been part of SharePoint&amp;rsquo;s evolution for years, helping guide its transformation with vision, clarity, and a remarkable ability to balance innovation with real-world needs.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title> ⚜️  Speaking at ESPC25: Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure</title>
-      <link>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</link>
-      <pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate>
-      <author>stationsolutions@gmail.com (rodrigo pinto)</author>
-      <guid>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</guid>
-      <description>&lt;p&gt;ESPC25 in Dublin was one of those events that reminds us why community conferences still matter so much.&lt;/p&gt;
-&lt;p&gt;From &lt;strong&gt;December 1 to December 4, 2025&lt;/strong&gt;, the European SharePoint, Microsoft 365 &amp;amp; AI Conference brought together a lot of great people, great conversations, and a lot of practical knowledge sharing. I was very happy to be part of it with my session &lt;strong&gt;Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;The session took place on &lt;strong&gt;Wednesday, December 3, 2025&lt;/strong&gt;, in the IT Professional track, and focused on a challenge that many teams know all too well: how to keep identity provisioning and lifecycle management under control when multiple tenants are involved.&lt;/p&gt;</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ESPC25 on Scoutman</title><link>/tags/espc25/</link><description>Recent content in ESPC25 on Scoutman</description><generator>Hugo -- gohugo.io</generator><managingEditor>stationsolutions@gmail.com (rodrigo pinto)</managingEditor><webMaster>stationsolutions@gmail.com (rodrigo pinto)</webMaster><lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/espc25/index.xml" rel="self" type="application/rss+xml"/><item><title>⚜️ A Special ESPC25 Moment: Handing My Book to Adam Harmetz</title><link>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</link><pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-a-special-espc25-moment-handing-my-book-to-adam-harmetz/</guid><description>&lt;p>Still buzzing after ESPC, I was lucky enough to hand my book &lt;strong>Mastering Microsoft 365 and SharePoint Online&lt;/strong> to &lt;a href="https://www.linkedin.com/in/adam-harmetz/">&lt;strong>Adam Harmetz&lt;/strong>&lt;/a>, VP of Product at Microsoft.&lt;/p>
+&lt;p>It was one of those small moments that somehow carries a lot of meaning.&lt;/p>
+&lt;p>When we spend years working with a platform, building on top of it, solving problems around it, and watching it evolve release after release, we also end up following the people helping shape that journey. Adam has been part of SharePoint&amp;rsquo;s evolution for years, helping guide its transformation with vision, clarity, and a remarkable ability to balance innovation with real-world needs.&lt;/p></description></item><item><title> ⚜️ Speaking at ESPC25: Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure</title><link>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</link><pubDate>Sat, 06 Dec 2025 00:00:00 +0000</pubDate><author>stationsolutions@gmail.com (rodrigo pinto)</author><guid>/%EF%B8%8F-speaking-at-espc25-implementing-scim-for-multi-tenant-identity-management-in-m365-and-azure/</guid><description>&lt;p>ESPC25 in Dublin was one of those events that reminds us why community conferences still matter so much.&lt;/p>
+&lt;p>From &lt;strong>December 1 to December 4, 2025&lt;/strong>, the European SharePoint, Microsoft 365 &amp;amp; AI Conference brought together a lot of great people, great conversations, and a lot of practical knowledge sharing. I was very happy to be part of it with my session &lt;strong>Implementing SCIM for Multi-Tenant Identity Management in M365 and Azure&lt;/strong>.&lt;/p>
+&lt;p>The session took place on &lt;strong>Wednesday, December 3, 2025&lt;/strong>, in the IT Professional track, and focused on a challenge that many teams know all too well: how to keep identity provisioning and lifecycle management under control when multiple tenants are involved.&lt;/p></description></item></channel></rss>

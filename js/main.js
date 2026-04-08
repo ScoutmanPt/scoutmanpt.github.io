@@ -6,18 +6,6 @@ var main = {
   numImgs : null,
 
   init : function() {
-    // $(window).resize(function() {
-    //   var  elem = document.getElementsByClassName("page-heading");
-    //   if (window.innerWidth < 1300)
-    //   {
-    //     elem[0].style.display="block";
-    //   }else
-     
-    //   {
-    //     elem[0].style.display="none";
-    //   }
-    // });
-
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
@@ -115,13 +103,11 @@ var main = {
         setTimeout(function(){ img.css("opacity", "1"); }, 50);
 
       // after the animation of fading in the new image is done, prefetch the next one
-        //img.one("transitioned webkitTransitionEnd oTransitionEnd MSTransitionEnd", function(){
       setTimeout(function() {
         main.setImg(src, desc, position);
-      img.remove();
+        img.remove();
         getNextImg();
       }, 1000);
-        //});
       }, 6000);
       };
 
@@ -192,57 +178,4 @@ var main = {
   }
 };
 
-// 2fc73a3a967e97599c9763d05e564189
-
 document.addEventListener('DOMContentLoaded', main.init);
-
-
-
-
-var downArrow = document.getElementById("btn1");
-var upArrow = document.getElementById("btn2");
-
-downArrow.onclick = function () {
-    'use strict';
-    document.getElementById("first-list").style = "top:-620px";
-    document.getElementById("second-list").style = "top:-620px";
-    downArrow.style = "display:none";
-    upArrow.style = "display:block";
-};
-
-upArrow.onclick = function () {
-    'use strict';
-    document.getElementById("first-list").style = "top:0";
-    document.getElementById("second-list").style = "top:80px";
-    upArrow.style = "display:none";
-    downArrow.style = "display:block";
-};
-
-
-// creating my image link
-
-var link = document.createElement("a");
-document.body.appendChild(link);
-
-link.href = "https://codepen.io/mo7hamed/pens/public";
-link.target = "_blank";
-
-var photo = document.createElement("img");
-link.appendChild(photo);
-
-photo.src =
-  "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1292524/profile/profile-80.jpg";
-photo.alt = "mo7amed";
-
-photo.style =
-  "border-radius:50%;position:fixed;bottom:20px;right:20px;transition:all 0.5s ease";
-
-photo.onmouseover = function() {
-  this.style.transform = "scale(1.1,1.1)";
-  this.style.boxShadow = "5px 5px 15px #000";
-};
-
-photo.onmouseout = function() {
-  this.style.transform = "scale(1,1)";
-  this.style.boxShadow = "none";
-};
