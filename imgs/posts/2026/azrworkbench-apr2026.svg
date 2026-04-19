@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Azure Runbook Workbench — April 2026 Update Banner</title>
+  <desc id="desc">Update banner for Azure Runbook Workbench April 2026, highlighting module pipeline fixes, publish workflow, and documentation improvements.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#060E1C"/>
+      <stop offset="0.5" stop-color="#091E35"/>
+      <stop offset="1" stop-color="#0C3558"/>
+    </linearGradient>
+    <linearGradient id="hero" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0.03"/>
+    </linearGradient>
+    <linearGradient id="lineGlow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.45" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FFD166"/>
+      <stop offset="1" stop-color="#FFB900"/>
+    </linearGradient>
+    <linearGradient id="tealGlow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.0"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#04101C" flood-opacity="0.42"/>
+    </filter>
+    <filter id="glowTeal" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1400" height="420" rx="28" fill="url(#bg)"/>
+
+  <!-- Ambient blobs -->
+  <circle cx="1180" cy="90" r="180" fill="#38BDF8" fill-opacity="0.07"/>
+  <circle cx="1290" cy="330" r="200" fill="#2DD4BF" fill-opacity="0.06"/>
+  <circle cx="120"  cy="380" r="170" fill="#FFB900"  fill-opacity="0.05"/>
+  <circle cx="520"  cy="60"  r="120" fill="#6366F1"  fill-opacity="0.05"/>
+
+  <!-- Wave -->
+  <path d="M0 340 C180 300, 310 274, 470 284 C650 296, 770 358, 950 350 C1130 342, 1240 258, 1400 220 V420 H0 Z" fill="#071523" fill-opacity="0.34"/>
+
+  <!-- Card frame -->
+  <rect x="48" y="48" width="1304" height="324" rx="26" fill="url(#hero)" stroke="#FFFFFF" stroke-opacity="0.12"/>
+
+  <!-- Accent line -->
+  <path d="M74 330 H860" stroke="url(#lineGlow)" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- ── Icon ── -->
+  <g filter="url(#shadow)">
+    <rect x="86" y="90" width="162" height="162" rx="34" fill="#0E2439" fill-opacity="0.95" stroke="#8FD9FF" stroke-opacity="0.22"/>
+    <rect x="104" y="108" width="126" height="126" rx="28" fill="#0C2B45" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <g transform="translate(113 118) scale(0.8)">
+      <path d="M64,20 L67.8,20.2 L74.4,4.9 L98.4,15.0 L92.3,30.3
+               L95.1,32.9 L97.7,35.7 L113.2,29.6 L123.1,53.6 L107.8,60.2
+               L108,64 L107.8,67.8 L123.1,74.4 L113.2,98.4 L97.7,92.3
+               L95.1,95.1 L92.3,97.7 L98.4,113.2 L74.4,123.1 L67.8,107.8
+               L64,108 L60.2,107.8 L53.6,123.1 L29.6,113.2 L35.7,97.7
+               L32.9,95.1 L30.3,92.3 L14.8,98.4 L4.9,74.4 L20.2,67.8
+               L20,64 L20.2,60.2 L4.9,53.6 L14.8,29.6 L30.3,35.7
+               L32.9,32.9 L35.7,30.3 L29.6,14.8 L53.6,4.9 L60.2,20.2 Z"
+        fill="none" stroke="#43B7FF" stroke-width="6" stroke-linejoin="round"/>
+      <path d="M77.4,35.3 L54.6,61.7 Q50,67 57,67 L60,67 Q67,67 62.8,72.6
+               L46.2,94.4 Q42,100 47.3,95.4 L88.7,59.6 Q94,55 87,55
+               L80,55 Q73,55 75.4,48.4 L79.6,36.6 Q82,30 77.4,35.3 Z"
+        fill="url(#gold)"/>
+    </g>
+  </g>
+
+  <!-- "WHAT'S NEW" badge -->
+  <rect x="282" y="96" width="122" height="26" rx="8" fill="#2DD4BF" fill-opacity="0.18" stroke="#2DD4BF" stroke-opacity="0.6"/>
+  <text x="343" y="114" text-anchor="middle" fill="#2DD4BF" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">WHAT'S NEW</text>
+
+  <!-- Title -->
+  <text x="282" y="178" fill="#F4FBFF" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">Azure Runbook Workbench</text>
+
+  <!-- Update label -->
+  <text x="284" y="218" fill="#A7DEFF" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0.5">April 2026 Update  ·  Module Pipeline  ·  Publish  ·  Docs</text>
+
+  <!-- Pills -->
+  <g transform="translate(282 258)">
+    <rect x="0"   y="0" width="178" height="42" rx="12" fill="#09253B" stroke="#2DD4BF" stroke-opacity="0.6"/>
+    <text x="89"  y="27" text-anchor="middle" fill="#C8FFF4" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Module Pipeline</text>
+
+    <rect x="192" y="0" width="162" height="42" rx="12" fill="#09253B" stroke="#38BDF8" stroke-opacity="0.55"/>
+    <text x="273" y="27" text-anchor="middle" fill="#EDF8FF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Publish CI/CD</text>
+
+    <rect x="368" y="0" width="132" height="42" rx="12" fill="#09253B" stroke="#FFB900" stroke-opacity="0.65"/>
+    <text x="434" y="27" text-anchor="middle" fill="#FFF4D5" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Docs Refresh</text>
+
+    <rect x="514" y="0" width="162" height="42" rx="12" fill="#09253B" stroke="#A78BFA" stroke-opacity="0.6"/>
+    <text x="595" y="27" text-anchor="middle" fill="#F1EBFF" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="700">Bug Fixes</text>
+  </g>
+
+  <!-- ── Right panel: pipeline flow ── -->
+  <g transform="translate(940 68)" filter="url(#shadow)">
+    <rect x="0" y="0" width="360" height="276" rx="22" fill="#081A2C" fill-opacity="0.94" stroke="#2DD4BF" stroke-opacity="0.25"/>
+
+    <!-- Panel header -->
+    <rect x="18" y="18" width="324" height="36" rx="10" fill="#0B2740"/>
+    <circle cx="38"  cy="36" r="5" fill="#2DD4BF"/>
+    <circle cx="56"  cy="36" r="5" fill="#38BDF8"/>
+    <circle cx="74"  cy="36" r="5" fill="#FFB900"/>
+    <text x="94" y="41" fill="#DDF4FF" font-family="Consolas, 'Courier New', monospace" font-size="14" font-weight="700">deploy-modules.ps1</text>
+
+    <!-- Pipeline steps -->
+    <!-- Step 1 -->
+    <rect x="18" y="68" width="324" height="40" rx="10" fill="#0D2D44"/>
+    <circle cx="40" cy="88" r="7" fill="#2DD4BF"/>
+    <text x="56" y="93" fill="#C8FFF4" font-family="Consolas, 'Courier New', monospace" font-size="14">Bundle local modules</text>
+    <text x="310" y="93" text-anchor="end" fill="#2DD4BF" font-family="Consolas, 'Courier New', monospace" font-size="13">✓</text>
+
+    <!-- Arrow -->
+    <line x1="40" y1="108" x2="40" y2="120" stroke="#2DD4BF" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="3,3"/>
+
+    <!-- Step 2 -->
+    <rect x="18" y="120" width="324" height="40" rx="10" fill="#0D2D44"/>
+    <circle cx="40" cy="140" r="7" fill="#38BDF8"/>
+    <text x="56" y="145" fill="#C8EFFF" font-family="Consolas, 'Courier New', monospace" font-size="14">Stage → temp storage</text>
+    <text x="310" y="145" text-anchor="end" fill="#38BDF8" font-family="Consolas, 'Courier New', monospace" font-size="13">✓</text>
+
+    <!-- Arrow -->
+    <line x1="40" y1="160" x2="40" y2="172" stroke="#38BDF8" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="3,3"/>
+
+    <!-- Step 3 -->
+    <rect x="18" y="172" width="324" height="40" rx="10" fill="#0D2D44"/>
+    <circle cx="40" cy="192" r="7" fill="#FFB900"/>
+    <text x="56" y="197" fill="#FFF4D5" font-family="Consolas, 'Courier New', monospace" font-size="14">Import + poll state</text>
+    <text x="310" y="197" text-anchor="end" fill="#FFB900" font-family="Consolas, 'Courier New', monospace" font-size="13">✓</text>
+
+    <!-- Arrow -->
+    <line x1="40" y1="212" x2="40" y2="224" stroke="#FFB900" stroke-width="2" stroke-opacity="0.5" stroke-dasharray="3,3"/>
+
+    <!-- Step 4 -->
+    <rect x="18" y="224" width="324" height="40" rx="10" fill="#0D2D44"/>
+    <circle cx="40" cy="244" r="7" fill="#A78BFA"/>
+    <text x="56" y="249" fill="#F1EBFF" font-family="Consolas, 'Courier New', monospace" font-size="14">Cleanup staging</text>
+    <text x="310" y="249" text-anchor="end" fill="#A78BFA" font-family="Consolas, 'Courier New', monospace" font-size="13">✓</text>
+  </g>
+
+  <!-- Connector curve -->
+  <path d="M876 318 C912 295, 968 260, 1070 252" stroke="url(#lineGlow)" stroke-width="4" stroke-linecap="round" stroke-opacity="0.85"/>
+</svg>
