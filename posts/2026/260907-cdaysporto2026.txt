@@ -1,0 +1,114 @@
+---
+title: "⚜️ What the hell are you waiting for ?
+Free sessions. Free lunch. Porto."
+date: 2026-09-06T00:00:00.000Z
+lastmod: 2026-09-06T00:00:00.000Z
+publishDate: 2026-09-06T00:00:00.000Z
+draft: false
+cover: "/imgs/posts/2026/cdaysstage.jpg"
+cover_position: "top"
+cover_height: "300"
+tags:
+  - Community
+  - CollabDays Portugal 2026 
+  - Porto
+  - M365
+  - SharePoint
+  - Copilot
+  - Azure
+  - AI
+---
+
+Another **CollabDays Portugal** is coming... and this time we're going back to **Porto, 16 October 2026, at ANJE**.
+![Collabdays Portugal 2026 speakers](/imgs/posts/2026/cdaysstage.jpg)
+I've been involved in community events for quite a few years now and there is still something about this model that makes me stop and think...
+
+Where else can you simply register, show up in the morning and spend an entire day listening to people who normally speak at some of the biggest Microsoft conferences around the world... talking about Microsoft 365, Azure, AI, Copilot, Power Platform, security, agents and whatever new thing Microsoft decided to release three days before the event 😁 ... **and pay absolutely nothing for it?**
+
+Seriously.
+
+Some of these speakers travel around the world delivering sessions at major conferences.
+
+They are *MVPs*, architects, developers, consultants, people actually building this stuff and breaking it in production so you don't have to 😁... and because sponsors help us make the whole thing possible, we can bring them to Portugal, put them in front of you, and basically say...<br><br>
+*"there you go... ask questions."*.
+<br><br>
+... for free.
+
+That's a little bit insane when you think about it, no?  
+<br>
+
+
+
+{{< img-left src="/imgs/posts/2026/cdaysisce.png" alt="CollabDays Porto stage" width="20%" >}}
+
+Collabdays Portugal is a **community event** !
+
+It's not one of those *"free events"* where someone traps you in a room for eight hours and spends six of them trying to sell you something.
+
+The sessions go from practical stuff you can probably use on Monday morning to properly deep technical sessions where at some point you start wondering why you didn't bring a notebook... and possibly aspirin 😁. 
+
+<br>
+The current programme is built around real Microsoft cloud work, from M365 and Azure to AI, Copilot, Power Platform and Teams... then you have the other bit that, for me, has always been at least as important as the sessions...
+<br>
+<br>
+
+{{< img-center src="/imgs/posts/2026/people.jpg" alt="People" width="100%" >}}
+<p style="text-align:center; font-weight:bold; font-size:28px">People</p>
+
+<br>
+
+We bump into a speaker during the coffee break and continue the conversation from the session, you find somebody fighting exactly the same ridiculous problem you've been fighting for three months. 
+
+Someone introduces you to somebody else. 
+
+We complain about licensing together... friendships are born 🤣.
+<br>
+<br>
+
+And yes... **coffee break**... and **lunch**...also free.
+
+The event is non-profit, attendance is free, and coffee breaks and lunch are provided, there are even giveaways at the end of the day. So let me understand this...
+
+1. You get international speakers.
+2. State-of-the-art technical sessions.
+3. A full day with the community.
+4. Coffee.
+5. Lunch.
+6. Porto.
+
+...and the ticket costs... **zero.**
+<br>
+
+At this point I genuinely don't know what else we're supposed to add...
+<br>
+<br>
+<br>
+
+{{< img-center src="/imgs/posts/2026/ride.jpg" alt="Maybe someone to pick you up from home? 😁" width="50%" >}}
+
+<p style="text-align:center">Maybe someone to pick you up from home? 😁</p>
+<br>
+
+CollabDays Portugal seats are obviously not infinite, though, and [**registration is already open !!!**](https://www.collabdays.pt)
+
+
+
+## So... what the hell are you waiting for?
+Go [register](https://www.collabdays.pt)
+<br>
+<br>
+Worst case scenario ... you learn something, meet some very cool people and get a free lunch.
+
+I've made considerably worse decisions with a Friday. 🤠
+<br>
+<br>
+
+**CollabDays Portugal 2026 - Porto Edition**
+
+**16 October 2026 · ANJE, Porto**
+
+**Free. Community-driven. In person.**
+
+<br>
+
+[Get your free CollabDays Portugal ticket](https://www.collabdays.pt)
